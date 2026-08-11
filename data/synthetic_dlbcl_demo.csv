@@ -1,0 +1,2501 @@
+diagnosis_year,age,sex,stage,comorbidity_ge1,b_symptoms,insurance,facility_type,treatment,survival_months,death
+2018,74,Female,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,79.07,0
+2015,69,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,17.6,1
+2020,76,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,75.56,0
+2015,51,Male,I-II,1,1,Medicare,Community,Chemoimmunotherapy,19.0,0
+2022,71,Male,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,22.45,0
+2020,71,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,26.08,0
+2015,83,Male,I-II,1,0,Medicare,Academic/Research,Chemotherapy alone,41.93,1
+2016,54,Male,III-IV,1,0,Medicaid/Other,Academic/Research,Chemotherapy alone,13.31,1
+2018,50,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,56.32,0
+2018,90,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,14.9,0
+2019,63,Male,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,44.88,0
+2018,83,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,1.31,1
+2017,68,Male,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,16.51,0
+2020,58,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,47.53,0
+2017,71,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,60.58,1
+2019,82,Female,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,16.62,0
+2019,66,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,54.37,0
+2013,74,Male,I-II,0,1,Medicare,Community,Chemotherapy alone,17.61,1
+2017,83,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,13.52,1
+2022,60,Female,III-IV,0,1,Medicaid/Other,Community,Chemoimmunotherapy,40.47,0
+2014,72,Female,I-II,1,0,Medicaid/Other,Academic/Research,Chemotherapy alone,2.87,1
+2021,45,Male,III-IV,0,1,Medicaid/Other,Community,Chemoimmunotherapy,11.48,1
+2013,62,Female,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,27.08,0
+2019,58,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,56.71,1
+2013,63,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,53.09,1
+2014,54,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,19.55,0
+2020,83,Female,I-II,1,0,Medicare,Community,Chemotherapy alone,11.88,1
+2016,72,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,5.23,1
+2017,60,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,57.55,0
+2014,90,Male,III-IV,1,0,Private,Academic/Research,Chemotherapy alone,22.43,1
+2021,90,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,6.25,1
+2022,61,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,81.21,0
+2019,90,Male,I-II,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,7.16,1
+2014,87,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,25.85,1
+2017,71,Male,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,17.13,0
+2015,40,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,13.0,0
+2016,45,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,30.54,0
+2015,74,Female,I-II,1,0,Medicare,Community,Chemotherapy alone,23.31,1
+2015,68,Male,I-II,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,50.28,0
+2013,73,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,23.24,1
+2022,55,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,33.31,1
+2013,72,Male,III-IV,1,0,Medicare,Community,Chemotherapy alone,23.23,1
+2013,80,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,0.69,1
+2020,73,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,7.08,1
+2021,79,Male,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,24.99,1
+2022,76,Male,III-IV,0,1,Medicaid/Other,Community,Chemoimmunotherapy,8.37,1
+2017,86,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,28.12,0
+2013,65,Male,III-IV,0,1,Medicare,Community,Chemotherapy alone,42.82,1
+2022,64,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,21.33,0
+2018,76,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,27.91,1
+2016,55,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,52.02,0
+2021,65,Female,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,25.81,1
+2016,68,Female,I-II,0,1,Medicare,Community,Chemotherapy alone,68.07,1
+2019,65,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,39.95,0
+2022,75,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,18.22,1
+2022,65,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,76.69,0
+2019,67,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,44.52,1
+2017,86,Female,I-II,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,12.34,0
+2015,62,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,12.79,1
+2013,77,Male,III-IV,0,1,Private,Community,Chemotherapy alone,11.5,1
+2014,62,Male,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,21.03,1
+2014,61,Female,III-IV,0,1,Private,Academic/Research,Chemotherapy alone,24.44,1
+2022,65,Female,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,68.31,0
+2018,72,Female,I-II,1,1,Private,Community,Chemoimmunotherapy,15.06,1
+2022,65,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,15.38,1
+2022,64,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,12.55,0
+2013,63,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,28.97,0
+2015,84,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,12.21,1
+2022,68,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,48.62,0
+2020,71,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,59.17,1
+2013,64,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,32.43,0
+2019,60,Male,I-II,1,0,Medicare,Community,Chemotherapy alone,7.2,1
+2014,51,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,33.22,0
+2016,74,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,36.69,1
+2021,77,Male,III-IV,1,0,Medicare,Community,Chemotherapy alone,19.97,1
+2017,77,Male,I-II,1,0,Medicare,Community,Chemotherapy alone,6.97,1
+2020,60,Female,I-II,1,0,Private,Community,Chemoimmunotherapy,13.92,1
+2021,67,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,30.03,1
+2019,67,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,27.81,0
+2014,62,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,4.57,1
+2017,80,Male,III-IV,1,1,Private,Community,Chemoimmunotherapy,56.63,1
+2016,72,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,11.98,1
+2021,56,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,28.42,1
+2018,53,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,26.76,0
+2022,77,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,16.86,0
+2014,60,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,23.9,1
+2017,77,Male,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,20.25,0
+2019,59,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,75.89,0
+2013,60,Female,I-II,0,0,Private,Community,Chemotherapy alone,47.09,1
+2014,67,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,34.18,1
+2022,76,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,31.11,1
+2016,76,Female,III-IV,1,0,Medicaid/Other,Community,Chemotherapy alone,23.97,1
+2022,70,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,18.3,1
+2015,88,Male,I-II,0,1,Private,Community,Chemotherapy alone,31.81,1
+2021,67,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,18.8,1
+2015,87,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,4.12,1
+2018,80,Female,III-IV,1,1,Private,Academic/Research,Chemotherapy alone,18.42,1
+2021,51,Male,III-IV,1,1,Medicaid/Other,Academic/Research,Chemotherapy alone,14.98,1
+2013,69,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,28.65,0
+2021,62,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,6.39,1
+2016,89,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,3.91,1
+2015,63,Male,III-IV,1,0,Private,Community,Chemoimmunotherapy,21.56,1
+2020,70,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,38.7,0
+2021,77,Female,I-II,1,0,Medicare,Community,Chemoimmunotherapy,78.56,1
+2014,66,Female,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,3.76,1
+2019,57,Female,III-IV,1,1,Private,Community,Chemoimmunotherapy,36.83,1
+2014,55,Male,III-IV,0,0,Private,Community,Chemotherapy alone,8.98,1
+2017,78,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,46.96,1
+2019,82,Male,III-IV,1,1,Private,Community,Chemoimmunotherapy,4.84,1
+2017,55,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,26.15,1
+2014,62,Male,I-II,0,0,Private,Academic/Research,Chemotherapy alone,19.33,1
+2019,62,Male,I-II,1,0,Private,Community,Chemoimmunotherapy,36.33,0
+2016,61,Female,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,28.53,1
+2017,78,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,83.26,0
+2022,55,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,16.68,1
+2019,69,Male,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,16.31,1
+2015,70,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,26.25,1
+2016,78,Female,III-IV,1,0,Medicare,Community,Chemotherapy alone,16.36,1
+2017,78,Female,I-II,1,0,Medicare,Community,Chemotherapy alone,16.14,0
+2013,76,Female,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,11.14,1
+2018,66,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,2.32,1
+2013,82,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,33.52,1
+2015,65,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,63.25,1
+2019,71,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,8.39,1
+2021,54,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,14.5,0
+2021,59,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,77.72,0
+2018,72,Female,I-II,1,1,Private,Academic/Research,Chemoimmunotherapy,59.87,0
+2013,66,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,34.87,1
+2019,70,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,36.37,0
+2021,76,Female,I-II,1,1,Medicare,Academic/Research,Chemotherapy alone,2.58,1
+2020,59,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,6.39,1
+2019,78,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,1.79,1
+2018,75,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,3.4,1
+2014,64,Male,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,26.3,1
+2017,62,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,61.36,1
+2014,61,Male,I-II,0,1,Private,Community,Chemotherapy alone,36.24,1
+2018,70,Female,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,24.16,1
+2013,50,Male,III-IV,1,0,Private,Community,Chemoimmunotherapy,82.47,0
+2013,47,Female,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,23.57,1
+2014,69,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,81.6,0
+2022,66,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,39.0,0
+2016,77,Male,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,4.97,1
+2021,70,Male,I-II,0,1,Medicaid/Other,Community,Chemotherapy alone,29.97,1
+2020,74,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,76.17,0
+2013,77,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,50.39,1
+2018,73,Female,III-IV,0,1,Private,Academic/Research,Chemotherapy alone,1.38,1
+2017,79,Male,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,81.61,0
+2022,74,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,46.98,1
+2014,70,Male,I-II,0,1,Private,Community,Chemotherapy alone,40.59,0
+2016,62,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,31.09,1
+2020,60,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,26.07,0
+2019,71,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,25.41,1
+2020,77,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,61.71,0
+2014,76,Female,III-IV,0,0,Private,Community,Chemotherapy alone,25.83,0
+2013,83,Male,I-II,0,1,Medicare,Academic/Research,Chemotherapy alone,20.98,0
+2014,65,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,5.0,1
+2019,67,Male,I-II,1,1,Private,Academic/Research,Chemotherapy alone,13.85,1
+2015,71,Male,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,5.07,1
+2022,80,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,26.82,1
+2018,55,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,34.36,0
+2016,90,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,27.02,1
+2020,79,Male,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,30.26,1
+2017,65,Male,I-II,1,1,Medicaid/Other,Academic/Research,Chemotherapy alone,26.45,1
+2020,69,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,50.18,0
+2019,77,Male,I-II,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,50.94,0
+2016,67,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,20.38,0
+2016,65,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,14.3,1
+2016,71,Female,I-II,0,0,Private,Academic/Research,Chemotherapy alone,27.29,1
+2017,68,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,5.57,1
+2014,83,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,24.0,1
+2020,77,Male,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,18.62,1
+2018,70,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,4.49,1
+2017,68,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,31.11,0
+2013,69,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,13.34,1
+2018,85,Female,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,1.42,1
+2014,60,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,73.99,0
+2017,63,Female,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,32.65,0
+2020,59,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,27.68,0
+2015,55,Male,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,71.15,0
+2018,82,Female,I-II,0,0,Private,Community,Chemotherapy alone,54.68,0
+2019,80,Female,I-II,0,1,Medicaid/Other,Community,Chemotherapy alone,16.82,1
+2016,67,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,3.47,1
+2017,71,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,42.91,0
+2022,70,Male,I-II,1,0,Medicare,Academic/Research,Chemotherapy alone,0.05,1
+2020,53,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,38.56,0
+2014,69,Male,I-II,1,0,Medicaid/Other,Academic/Research,Chemotherapy alone,3.7,1
+2022,62,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,29.81,1
+2021,70,Male,I-II,0,1,Medicare,Academic/Research,Chemotherapy alone,16.29,1
+2020,64,Female,I-II,1,1,Private,Academic/Research,Chemoimmunotherapy,1.44,1
+2016,64,Female,I-II,1,0,Medicare,Community,Chemoimmunotherapy,31.23,1
+2015,64,Male,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,12.11,0
+2019,77,Female,III-IV,0,0,Private,Community,Chemotherapy alone,39.74,1
+2022,81,Male,III-IV,1,1,Medicaid/Other,Community,Chemoimmunotherapy,12.79,1
+2014,78,Female,I-II,0,0,Private,Academic/Research,Chemotherapy alone,20.77,1
+2022,82,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,15.07,1
+2022,62,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,79.01,1
+2015,70,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,1.27,1
+2022,82,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,33.83,1
+2020,59,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,3.93,1
+2015,76,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,25.37,0
+2020,78,Female,III-IV,0,1,Private,Community,Chemotherapy alone,7.02,1
+2017,71,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,1.88,1
+2018,84,Female,I-II,1,1,Medicare,Community,Chemoimmunotherapy,7.48,1
+2017,75,Female,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,35.98,1
+2017,79,Male,III-IV,1,0,Private,Community,Chemotherapy alone,42.45,1
+2022,57,Male,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,1.1,1
+2015,74,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,18.51,1
+2015,53,Male,I-II,1,1,Medicare,Community,Chemoimmunotherapy,6.29,1
+2017,80,Male,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,28.95,1
+2014,66,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,44.0,1
+2014,82,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,32.67,1
+2018,73,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,39.91,0
+2017,90,Male,III-IV,0,0,Private,Community,Chemotherapy alone,1.2,1
+2015,59,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,80.37,0
+2019,69,Female,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,22.24,0
+2017,65,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,37.81,1
+2022,69,Male,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,6.09,1
+2018,75,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,2.82,1
+2018,74,Male,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,11.05,1
+2014,66,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,26.52,1
+2020,74,Female,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,44.16,0
+2019,55,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,56.99,0
+2017,69,Female,I-II,0,1,Private,Academic/Research,Chemotherapy alone,24.62,1
+2015,61,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,49.25,0
+2022,58,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,4.93,1
+2021,63,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,57.49,1
+2015,54,Female,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,33.33,0
+2019,51,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,20.82,0
+2019,71,Male,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,67.13,1
+2018,52,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,74.42,1
+2017,68,Male,I-II,0,1,Private,Academic/Research,Chemotherapy alone,52.82,0
+2014,70,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,15.28,1
+2013,68,Male,I-II,0,1,Private,Academic/Research,Chemotherapy alone,80.35,0
+2020,59,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,59.18,0
+2017,84,Female,III-IV,0,0,Private,Community,Chemotherapy alone,0.61,1
+2017,58,Male,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,2.08,1
+2022,60,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,44.97,1
+2022,52,Female,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,16.13,0
+2013,65,Female,I-II,0,0,Private,Community,Chemotherapy alone,11.96,1
+2018,80,Male,III-IV,0,1,Medicaid/Other,Community,Chemoimmunotherapy,5.7,1
+2017,54,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,34.07,0
+2018,70,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,76.45,0
+2015,66,Male,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,13.46,0
+2013,52,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,8.95,1
+2018,71,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,0.17,1
+2019,55,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,50.9,0
+2013,57,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,52.84,0
+2021,72,Male,III-IV,0,1,Medicaid/Other,Community,Chemoimmunotherapy,32.39,1
+2022,70,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,66.45,0
+2018,82,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,18.08,1
+2018,61,Male,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,40.58,0
+2017,51,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,57.81,0
+2020,52,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,55.34,1
+2022,54,Male,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,34.33,1
+2015,72,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,1.54,1
+2017,52,Female,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,15.41,0
+2017,87,Male,III-IV,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,68.64,1
+2013,70,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,57.34,1
+2019,59,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,30.67,0
+2021,65,Female,III-IV,0,0,Medicaid/Other,Community,Chemotherapy alone,75.81,1
+2020,78,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,19.65,1
+2015,43,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,50.62,0
+2016,59,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,30.58,0
+2016,86,Female,III-IV,1,1,Medicare,Community,Chemotherapy alone,24.15,1
+2014,61,Female,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,2.85,1
+2022,76,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,3.64,1
+2013,60,Male,III-IV,0,1,Medicare,Community,Chemotherapy alone,32.76,0
+2015,70,Male,I-II,1,0,Medicare,Community,Chemotherapy alone,13.07,0
+2021,80,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,14.14,1
+2019,74,Male,III-IV,1,1,Private,Community,Chemoimmunotherapy,16.11,0
+2016,73,Female,III-IV,0,1,Private,Community,Chemotherapy alone,8.6,1
+2016,71,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,23.49,1
+2021,82,Male,III-IV,1,1,Private,Community,Chemoimmunotherapy,4.69,1
+2021,62,Male,I-II,1,0,Private,Academic/Research,Chemoimmunotherapy,57.34,1
+2018,71,Male,III-IV,0,1,Private,Community,Chemotherapy alone,23.82,0
+2015,67,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,25.76,1
+2020,78,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,25.96,1
+2020,82,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,17.52,0
+2013,59,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,39.97,1
+2016,49,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,2.19,1
+2018,85,Female,I-II,0,1,Medicare,Community,Chemotherapy alone,30.0,1
+2014,47,Female,I-II,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,10.26,1
+2021,74,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,3.23,1
+2022,67,Female,I-II,0,1,Private,Community,Chemoimmunotherapy,9.48,1
+2017,55,Male,I-II,1,0,Medicaid/Other,Community,Chemoimmunotherapy,73.2,0
+2018,77,Female,III-IV,1,0,Private,Academic/Research,Chemotherapy alone,8.98,1
+2014,85,Male,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,18.5,1
+2013,70,Female,I-II,1,0,Private,Academic/Research,Chemoimmunotherapy,9.35,1
+2017,51,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,79.83,0
+2013,63,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,43.68,0
+2022,64,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,27.7,1
+2018,78,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,63.26,0
+2019,66,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,31.92,1
+2020,56,Male,III-IV,0,1,Medicaid/Other,Community,Chemoimmunotherapy,45.71,1
+2021,64,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,16.47,0
+2017,64,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,61.82,0
+2020,80,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,4.93,1
+2014,62,Male,I-II,0,1,Medicare,Community,Chemotherapy alone,51.57,0
+2020,67,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,34.23,0
+2020,63,Female,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,18.16,1
+2018,67,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,60.06,0
+2019,69,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,25.55,0
+2020,64,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,15.14,0
+2016,73,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,7.43,1
+2022,80,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,29.14,1
+2017,90,Male,III-IV,0,0,Private,Community,Chemotherapy alone,7.12,1
+2015,66,Female,III-IV,1,0,Private,Community,Chemoimmunotherapy,32.41,1
+2015,58,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,47.9,0
+2015,73,Male,I-II,1,0,Medicare,Community,Chemotherapy alone,27.53,0
+2017,79,Male,III-IV,0,0,Private,Community,Chemotherapy alone,2.9,1
+2019,69,Male,I-II,0,0,Private,Academic/Research,Chemotherapy alone,0.45,1
+2021,61,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,8.51,1
+2017,61,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,43.85,1
+2019,69,Male,I-II,1,0,Medicare,Academic/Research,Chemotherapy alone,13.63,0
+2020,52,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,3.45,1
+2020,76,Male,I-II,1,0,Private,Community,Chemoimmunotherapy,39.44,1
+2019,86,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,38.28,0
+2022,77,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,33.98,1
+2021,53,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,7.7,1
+2014,48,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,18.79,1
+2015,81,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,16.47,1
+2020,76,Male,I-II,0,1,Medicaid/Other,Community,Chemotherapy alone,30.65,1
+2015,69,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,41.32,0
+2019,56,Female,I-II,1,0,Medicaid/Other,Community,Chemotherapy alone,19.89,0
+2022,68,Female,I-II,0,1,Medicare,Academic/Research,Chemotherapy alone,6.22,1
+2013,63,Male,I-II,0,1,Medicare,Academic/Research,Chemotherapy alone,8.0,1
+2019,63,Female,I-II,1,0,Medicaid/Other,Community,Chemoimmunotherapy,2.31,1
+2018,84,Female,I-II,1,1,Medicare,Academic/Research,Chemotherapy alone,24.65,1
+2017,73,Male,III-IV,0,0,Private,Community,Chemotherapy alone,37.21,1
+2020,89,Male,III-IV,1,0,Medicare,Community,Chemotherapy alone,3.89,1
+2022,74,Female,III-IV,1,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,8.12,1
+2016,59,Male,I-II,1,0,Medicaid/Other,Community,Chemoimmunotherapy,53.57,0
+2019,87,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,3.11,1
+2014,76,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,5.81,1
+2016,70,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,64.53,0
+2013,57,Male,I-II,1,1,Medicare,Community,Chemoimmunotherapy,40.72,1
+2018,79,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,15.16,1
+2016,75,Male,I-II,1,0,Private,Community,Chemotherapy alone,3.09,1
+2018,62,Female,I-II,1,1,Medicare,Community,Chemoimmunotherapy,68.83,0
+2015,72,Male,I-II,1,1,Medicare,Community,Chemotherapy alone,27.11,1
+2018,56,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,13.48,0
+2019,49,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,51.11,0
+2022,59,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,5.89,1
+2014,75,Female,I-II,1,0,Private,Community,Chemoimmunotherapy,38.0,0
+2013,75,Male,III-IV,0,1,Medicare,Community,Chemotherapy alone,24.54,0
+2015,66,Male,I-II,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,12.13,1
+2014,70,Male,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,5.39,1
+2020,65,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,48.77,0
+2013,86,Male,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,35.44,1
+2014,73,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,9.53,1
+2018,68,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,36.51,1
+2014,74,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,23.42,0
+2017,48,Male,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,28.07,1
+2016,62,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,35.36,0
+2017,62,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,28.88,1
+2021,86,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,38.24,1
+2018,79,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,21.69,0
+2013,69,Male,III-IV,1,1,Private,Community,Chemotherapy alone,8.47,1
+2019,64,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,34.31,1
+2021,68,Male,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,47.36,1
+2019,73,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,49.91,0
+2017,90,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,14.17,0
+2021,77,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,36.77,1
+2019,51,Male,III-IV,0,0,Private,Community,Chemotherapy alone,26.45,1
+2022,83,Male,III-IV,1,1,Medicare,Community,Chemotherapy alone,13.63,1
+2014,53,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,24.26,0
+2022,77,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,8.07,1
+2022,60,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,7.16,1
+2020,70,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,40.88,0
+2015,78,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,37.97,0
+2013,89,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,12.53,0
+2019,55,Male,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,53.92,1
+2016,67,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,22.33,1
+2015,65,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,48.57,0
+2019,62,Female,I-II,1,0,Private,Community,Chemotherapy alone,15.38,1
+2015,78,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,53.3,1
+2015,82,Male,I-II,1,0,Medicaid/Other,Community,Chemoimmunotherapy,17.13,0
+2016,62,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,42.48,1
+2018,57,Female,I-II,0,1,Medicare,Academic/Research,Chemotherapy alone,7.85,1
+2017,64,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,26.47,1
+2018,81,Female,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,57.74,0
+2014,71,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,22.34,1
+2014,71,Male,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,18.82,0
+2021,69,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,21.54,1
+2021,84,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,2.05,1
+2019,59,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,33.46,1
+2019,82,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,58.45,1
+2021,84,Male,III-IV,0,1,Medicaid/Other,Community,Chemoimmunotherapy,30.04,1
+2014,73,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,24.97,1
+2018,73,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,0.3,1
+2019,58,Female,I-II,0,1,Medicare,Academic/Research,Chemotherapy alone,79.93,0
+2015,66,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,27.16,1
+2018,79,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,21.08,0
+2021,66,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,50.28,0
+2018,81,Male,III-IV,1,1,Private,Academic/Research,Chemoimmunotherapy,0.4,1
+2016,69,Male,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,14.62,1
+2020,56,Female,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,23.63,1
+2022,61,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,30.51,0
+2022,73,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,24.9,1
+2016,74,Female,III-IV,1,0,Medicaid/Other,Community,Chemotherapy alone,2.76,1
+2020,64,Male,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,22.56,0
+2021,57,Male,I-II,1,0,Private,Community,Chemoimmunotherapy,49.92,1
+2015,52,Female,I-II,1,0,Private,Community,Chemoimmunotherapy,76.46,0
+2014,45,Female,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,40.71,0
+2021,68,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,33.52,0
+2019,71,Female,III-IV,1,1,Medicaid/Other,Community,Chemoimmunotherapy,11.57,1
+2017,81,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,16.65,0
+2018,56,Female,III-IV,1,0,Medicare,Community,Chemotherapy alone,0.15,1
+2022,60,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,19.36,1
+2019,59,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,4.93,1
+2019,52,Female,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,6.82,1
+2021,80,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,30.83,1
+2018,79,Female,III-IV,0,1,Private,Community,Chemotherapy alone,12.86,1
+2016,68,Female,I-II,1,0,Medicare,Community,Chemoimmunotherapy,33.22,0
+2022,70,Female,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,54.15,0
+2015,61,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,52.04,0
+2022,78,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,27.03,1
+2017,72,Male,I-II,1,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,39.49,0
+2019,63,Male,III-IV,1,1,Private,Academic/Research,Chemoimmunotherapy,13.04,0
+2014,64,Male,I-II,1,1,Medicare,Community,Chemotherapy alone,31.83,0
+2018,63,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,24.2,1
+2021,84,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,45.69,1
+2018,71,Female,III-IV,1,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,58.44,1
+2014,81,Female,I-II,1,0,Private,Academic/Research,Chemoimmunotherapy,14.26,1
+2017,81,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,9.74,1
+2018,63,Male,III-IV,1,0,Medicare,Community,Chemotherapy alone,16.98,1
+2017,63,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,29.07,1
+2017,75,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,4.83,1
+2015,73,Female,I-II,0,0,Private,Community,Chemotherapy alone,34.1,0
+2019,61,Male,I-II,1,0,Private,Community,Chemoimmunotherapy,68.49,0
+2021,72,Female,I-II,1,0,Medicaid/Other,Community,Chemoimmunotherapy,24.93,1
+2019,83,Female,I-II,1,0,Medicare,Community,Chemoimmunotherapy,26.07,1
+2017,67,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,81.35,0
+2015,45,Male,III-IV,0,0,Medicaid/Other,Community,Chemotherapy alone,11.86,1
+2013,50,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,6.1,1
+2013,54,Male,I-II,0,1,Private,Community,Chemotherapy alone,62.54,0
+2021,67,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,15.47,0
+2018,79,Female,I-II,0,0,Private,Academic/Research,Chemotherapy alone,65.61,0
+2020,70,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,29.41,1
+2022,72,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,57.65,1
+2014,80,Male,III-IV,1,1,Private,Community,Chemotherapy alone,6.81,1
+2022,77,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,24.15,0
+2020,71,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,27.95,1
+2020,70,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,18.05,1
+2017,82,Female,I-II,1,1,Medicare,Community,Chemotherapy alone,7.28,1
+2019,75,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,0.98,1
+2017,77,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,60.41,1
+2017,69,Female,III-IV,0,1,Medicaid/Other,Academic/Research,Chemotherapy alone,22.36,1
+2014,58,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,20.67,1
+2019,69,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,44.79,1
+2018,69,Female,I-II,1,0,Private,Community,Chemotherapy alone,15.14,1
+2014,79,Female,III-IV,1,1,Private,Community,Chemotherapy alone,21.74,0
+2017,61,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,12.58,0
+2022,62,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,20.43,1
+2020,57,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,18.25,0
+2016,70,Male,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,53.3,1
+2014,69,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,50.99,0
+2022,65,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,32.66,1
+2022,65,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,13.46,0
+2014,62,Male,III-IV,1,0,Private,Community,Chemotherapy alone,23.73,1
+2021,71,Male,III-IV,1,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,19.73,1
+2017,68,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,1.14,1
+2018,68,Female,I-II,1,1,Medicare,Community,Chemoimmunotherapy,12.76,0
+2015,77,Female,I-II,0,1,Private,Community,Chemotherapy alone,20.87,0
+2020,63,Female,III-IV,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,48.66,0
+2019,76,Female,I-II,1,0,Private,Academic/Research,Chemoimmunotherapy,0.57,1
+2021,49,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,23.92,0
+2014,71,Male,III-IV,1,0,Private,Community,Chemotherapy alone,5.96,1
+2019,71,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,16.73,1
+2018,78,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,33.7,0
+2022,62,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,27.54,1
+2016,85,Female,III-IV,1,0,Private,Academic/Research,Chemotherapy alone,17.51,0
+2021,59,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,24.54,0
+2013,52,Female,III-IV,1,1,Private,Academic/Research,Chemotherapy alone,25.05,1
+2021,85,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,74.71,0
+2018,72,Male,III-IV,1,1,Private,Community,Chemoimmunotherapy,17.18,1
+2015,89,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,13.36,0
+2019,65,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,42.48,1
+2016,67,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,4.93,1
+2021,58,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,8.41,1
+2020,66,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,59.05,0
+2020,57,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,22.75,1
+2022,79,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,36.11,1
+2022,66,Male,III-IV,1,1,Private,Academic/Research,Chemoimmunotherapy,4.5,1
+2014,58,Female,III-IV,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,11.96,1
+2020,70,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,25.45,0
+2016,78,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,36.79,0
+2019,80,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,25.74,1
+2015,78,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,0.27,1
+2021,73,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,7.18,1
+2022,56,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,60.08,1
+2015,60,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,68.21,0
+2014,74,Male,III-IV,0,1,Medicaid/Other,Community,Chemotherapy alone,15.86,1
+2016,64,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,49.3,0
+2016,85,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,18.06,1
+2014,60,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,9.21,1
+2019,66,Female,I-II,1,1,Medicaid/Other,Community,Chemotherapy alone,14.64,1
+2017,81,Male,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,11.37,1
+2013,74,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,27.97,0
+2018,70,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,15.11,0
+2021,50,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,22.48,1
+2016,76,Male,III-IV,1,0,Medicare,Community,Chemotherapy alone,4.56,1
+2013,55,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,1.36,1
+2020,72,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,54.43,1
+2017,77,Male,I-II,0,1,Private,Community,Chemotherapy alone,38.35,1
+2018,57,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,18.22,0
+2020,72,Male,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,18.95,1
+2018,59,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,41.11,0
+2022,79,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,17.39,1
+2017,54,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,23.84,0
+2021,75,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,36.96,0
+2016,85,Male,I-II,1,0,Medicaid/Other,Community,Chemoimmunotherapy,7.23,1
+2013,68,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,22.6,1
+2013,51,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,28.23,0
+2014,65,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,83.1,0
+2017,76,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,76.2,0
+2013,77,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,7.92,1
+2015,90,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,32.15,1
+2014,65,Male,III-IV,0,0,Medicaid/Other,Community,Chemotherapy alone,75.09,1
+2013,60,Female,I-II,0,1,Private,Academic/Research,Chemotherapy alone,53.15,1
+2014,61,Male,III-IV,1,1,Medicaid/Other,Community,Chemoimmunotherapy,27.29,1
+2022,90,Female,III-IV,0,0,Medicaid/Other,Community,Chemotherapy alone,12.1,1
+2019,69,Male,I-II,0,1,Medicaid/Other,Academic/Research,Chemotherapy alone,1.85,1
+2013,79,Female,I-II,1,1,Medicare,Academic/Research,Chemotherapy alone,0.05,1
+2022,68,Female,I-II,0,1,Private,Community,Chemoimmunotherapy,47.16,0
+2022,75,Female,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,2.67,1
+2020,70,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,3.18,1
+2022,56,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,4.0,1
+2019,59,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,38.63,0
+2015,61,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,13.86,0
+2017,76,Male,I-II,1,1,Medicare,Community,Chemotherapy alone,8.42,1
+2020,50,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,55.27,0
+2015,50,Male,III-IV,1,0,Medicare,Community,Chemotherapy alone,2.4,1
+2021,76,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,3.46,1
+2016,76,Male,I-II,1,0,Medicare,Academic/Research,Chemotherapy alone,7.62,1
+2015,78,Male,I-II,1,0,Medicare,Academic/Research,Chemotherapy alone,5.52,1
+2017,90,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,59.04,0
+2020,59,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,45.47,0
+2018,54,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,15.52,0
+2013,54,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,65.73,1
+2021,48,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,27.25,0
+2016,62,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,30.11,0
+2016,57,Female,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,53.38,1
+2016,46,Female,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,16.84,1
+2017,90,Female,III-IV,1,0,Medicare,Community,Chemotherapy alone,12.0,1
+2014,78,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,28.11,0
+2018,63,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,45.29,1
+2014,80,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,13.58,0
+2016,73,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,14.55,1
+2018,48,Female,III-IV,1,1,Private,Community,Chemoimmunotherapy,43.65,1
+2014,87,Female,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,12.5,1
+2018,61,Female,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,14.11,0
+2020,84,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,12.23,0
+2013,59,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,15.67,0
+2017,76,Male,III-IV,0,0,Private,Community,Chemotherapy alone,30.68,0
+2013,65,Female,III-IV,1,1,Medicare,Community,Chemotherapy alone,13.76,0
+2017,61,Male,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,0.21,1
+2022,76,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,1.46,1
+2019,68,Female,III-IV,0,1,Medicare,Community,Chemotherapy alone,39.49,0
+2020,50,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,38.01,0
+2014,50,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,5.67,1
+2018,55,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,37.83,0
+2016,56,Female,I-II,1,0,Medicare,Academic/Research,Chemotherapy alone,44.43,1
+2014,65,Female,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,2.31,1
+2018,76,Male,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,65.07,1
+2017,77,Male,I-II,0,1,Private,Community,Chemotherapy alone,30.98,1
+2021,57,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,19.8,0
+2019,70,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,52.33,1
+2015,75,Male,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,16.22,1
+2013,63,Male,III-IV,0,1,Medicaid/Other,Community,Chemotherapy alone,1.57,1
+2016,67,Female,I-II,1,0,Private,Community,Chemoimmunotherapy,41.64,0
+2015,87,Female,I-II,0,0,Private,Community,Chemotherapy alone,49.07,1
+2022,78,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,2.5,1
+2022,76,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,12.47,1
+2021,72,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,20.36,1
+2021,88,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,4.8,1
+2016,56,Male,III-IV,1,0,Private,Academic/Research,Chemotherapy alone,38.06,1
+2015,57,Female,III-IV,0,0,Private,Community,Chemotherapy alone,18.16,1
+2017,60,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,15.57,0
+2014,65,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,13.83,0
+2020,77,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,21.5,1
+2017,66,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,23.53,1
+2020,70,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,20.49,0
+2020,88,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,5.02,1
+2017,36,Male,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,0.78,1
+2019,76,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,23.07,1
+2013,68,Female,III-IV,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,20.69,1
+2015,53,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,25.26,0
+2014,88,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,0.94,1
+2020,60,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,17.03,0
+2014,86,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,18.45,0
+2021,65,Female,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,21.72,0
+2013,65,Female,I-II,1,1,Private,Academic/Research,Chemoimmunotherapy,51.31,1
+2017,68,Female,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,22.95,1
+2014,77,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,0.43,1
+2013,71,Female,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,11.21,1
+2022,67,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,50.09,1
+2016,65,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,11.98,1
+2017,72,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,61.12,0
+2015,80,Female,III-IV,0,1,Medicaid/Other,Community,Chemoimmunotherapy,52.03,1
+2016,63,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,3.41,1
+2018,53,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,26.72,0
+2014,56,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,33.55,0
+2019,80,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,32.24,1
+2022,81,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,8.39,1
+2015,54,Female,III-IV,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,13.44,1
+2017,56,Male,I-II,1,0,Private,Academic/Research,Chemoimmunotherapy,5.57,1
+2014,55,Male,I-II,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,1.57,1
+2015,67,Female,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,53.92,0
+2018,72,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,33.11,0
+2018,68,Male,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,81.38,0
+2022,89,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,19.48,0
+2021,83,Female,I-II,1,0,Private,Community,Chemoimmunotherapy,10.65,1
+2019,75,Female,I-II,1,1,Medicare,Community,Chemoimmunotherapy,21.59,0
+2015,54,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,12.5,1
+2018,46,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,2.06,1
+2021,65,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,53.71,0
+2017,65,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,22.02,0
+2018,79,Male,I-II,0,1,Medicare,Academic/Research,Chemotherapy alone,13.04,1
+2019,64,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,37.03,0
+2016,57,Female,I-II,1,1,Private,Academic/Research,Chemoimmunotherapy,54.04,0
+2017,80,Female,III-IV,1,0,Private,Community,Chemoimmunotherapy,5.66,1
+2022,75,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,17.99,1
+2018,82,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,22.55,1
+2022,55,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,15.08,0
+2022,79,Female,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,3.41,1
+2021,65,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,28.67,1
+2020,62,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,50.71,1
+2013,68,Female,I-II,1,0,Medicare,Community,Chemotherapy alone,11.81,1
+2014,85,Female,III-IV,1,1,Medicare,Community,Chemotherapy alone,1.22,1
+2017,59,Male,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,31.04,1
+2020,57,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,56.39,0
+2020,53,Female,I-II,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,13.06,0
+2013,79,Male,III-IV,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,21.91,1
+2013,72,Male,I-II,1,1,Private,Academic/Research,Chemotherapy alone,82.04,0
+2018,67,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,32.69,0
+2021,80,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,42.31,1
+2020,58,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,25.68,0
+2020,79,Female,III-IV,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,8.75,1
+2013,71,Male,I-II,1,1,Medicare,Community,Chemoimmunotherapy,17.1,0
+2021,79,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,4.78,1
+2018,65,Female,III-IV,0,0,Private,Community,Chemotherapy alone,12.55,1
+2018,56,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,8.08,1
+2018,90,Male,III-IV,0,0,Private,Community,Chemotherapy alone,10.28,1
+2019,69,Male,III-IV,1,0,Medicaid/Other,Academic/Research,Chemotherapy alone,9.85,1
+2016,73,Female,III-IV,1,1,Medicare,Academic/Research,Chemotherapy alone,2.63,1
+2019,63,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,5.39,1
+2015,60,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,43.99,0
+2013,66,Male,I-II,0,0,Private,Academic/Research,Chemotherapy alone,2.14,1
+2022,68,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,29.62,0
+2022,72,Male,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,13.58,0
+2016,81,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,35.43,1
+2016,86,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,32.81,1
+2014,83,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,27.18,1
+2013,49,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,40.47,0
+2020,61,Male,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,65.42,0
+2015,53,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,35.05,0
+2018,61,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,26.94,0
+2018,83,Female,III-IV,1,1,Medicare,Community,Chemotherapy alone,21.28,1
+2014,58,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,21.5,0
+2018,74,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,45.28,0
+2021,65,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,20.96,1
+2018,60,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,58.55,0
+2014,63,Female,I-II,1,0,Private,Academic/Research,Chemotherapy alone,21.77,1
+2022,58,Female,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,80.82,0
+2019,65,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,72.11,0
+2017,61,Male,III-IV,1,0,Medicare,Community,Chemotherapy alone,20.62,1
+2017,72,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,7.7,1
+2017,82,Male,III-IV,1,0,Private,Community,Chemotherapy alone,26.71,1
+2016,83,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,75.04,1
+2022,53,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,21.81,0
+2013,58,Female,III-IV,0,1,Medicare,Community,Chemotherapy alone,13.12,1
+2018,69,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,20.15,0
+2013,57,Female,I-II,0,1,Medicare,Academic/Research,Chemotherapy alone,62.22,0
+2021,48,Female,III-IV,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,9.34,1
+2016,69,Male,I-II,0,1,Private,Academic/Research,Chemotherapy alone,14.05,0
+2019,59,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,36.97,0
+2016,60,Male,I-II,1,0,Private,Community,Chemoimmunotherapy,23.56,0
+2015,77,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,83.19,0
+2015,74,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,53.09,1
+2013,61,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,3.96,1
+2018,84,Male,I-II,1,1,Private,Academic/Research,Chemoimmunotherapy,9.83,1
+2021,72,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,32.65,1
+2016,73,Female,III-IV,1,0,Medicare,Community,Chemotherapy alone,34.68,1
+2013,71,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,46.02,0
+2019,79,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,54.96,0
+2018,60,Male,III-IV,0,0,Private,Community,Chemotherapy alone,21.67,1
+2020,56,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,27.3,0
+2015,54,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,59.25,1
+2016,61,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,3.53,1
+2019,73,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,58.85,1
+2022,70,Female,III-IV,1,1,Private,Community,Chemoimmunotherapy,29.41,0
+2020,57,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,50.99,1
+2020,67,Male,III-IV,1,0,Medicare,Community,Chemotherapy alone,0.47,1
+2016,59,Female,I-II,1,0,Private,Academic/Research,Chemotherapy alone,33.7,1
+2015,72,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,41.78,1
+2017,80,Female,I-II,1,1,Medicare,Community,Chemotherapy alone,32.63,0
+2022,88,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,3.0,1
+2013,70,Female,III-IV,1,0,Private,Community,Chemotherapy alone,4.37,1
+2018,71,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,55.91,1
+2016,71,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,48.3,1
+2015,48,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,74.51,0
+2020,66,Female,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,72.25,0
+2021,73,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,24.33,1
+2013,77,Female,III-IV,0,1,Private,Academic/Research,Chemotherapy alone,26.57,1
+2019,63,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,13.11,0
+2017,77,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,12.45,1
+2019,52,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,30.95,1
+2022,87,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,10.79,1
+2022,74,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,26.91,0
+2017,56,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,1.79,1
+2019,55,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,68.04,1
+2021,51,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,22.57,1
+2021,82,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,40.92,1
+2014,81,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,2.03,1
+2021,84,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,1.47,1
+2020,88,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,39.38,0
+2016,69,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,30.22,1
+2017,78,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,55.28,1
+2020,75,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,39.73,0
+2018,64,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,13.1,1
+2018,82,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,15.29,1
+2019,51,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,19.51,1
+2014,68,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,19.55,1
+2019,71,Male,III-IV,0,0,Medicaid/Other,Community,Chemotherapy alone,11.08,1
+2021,54,Male,III-IV,0,1,Medicaid/Other,Academic/Research,Chemotherapy alone,23.8,0
+2019,71,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,15.15,1
+2019,77,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,38.79,0
+2022,64,Female,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,12.43,1
+2017,56,Female,III-IV,0,1,Medicaid/Other,Community,Chemoimmunotherapy,47.62,0
+2017,69,Male,I-II,1,1,Medicare,Community,Chemoimmunotherapy,20.0,0
+2018,68,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,42.65,0
+2018,80,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,13.75,1
+2022,54,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,32.55,0
+2015,63,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,2.75,1
+2017,50,Male,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,14.3,0
+2019,72,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,26.67,0
+2021,81,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,7.52,1
+2013,77,Male,III-IV,1,1,Medicare,Community,Chemotherapy alone,20.45,1
+2020,86,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,16.01,1
+2018,53,Female,I-II,1,0,Medicare,Community,Chemotherapy alone,59.14,0
+2022,65,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,9.75,1
+2019,48,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,40.21,0
+2017,68,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,14.11,0
+2015,53,Male,III-IV,1,0,Medicare,Community,Chemotherapy alone,5.54,1
+2022,64,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,44.2,0
+2013,45,Male,III-IV,0,1,Medicaid/Other,Community,Chemotherapy alone,25.69,0
+2015,59,Female,III-IV,0,1,Medicare,Community,Chemotherapy alone,18.93,0
+2021,67,Male,I-II,1,1,Private,Community,Chemotherapy alone,28.46,1
+2021,72,Male,III-IV,1,1,Medicaid/Other,Community,Chemoimmunotherapy,14.8,1
+2022,65,Male,I-II,1,1,Private,Community,Chemoimmunotherapy,8.56,1
+2014,69,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,69.73,1
+2013,69,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,28.77,0
+2014,87,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,61.83,1
+2017,65,Female,I-II,0,1,Medicare,Academic/Research,Chemotherapy alone,23.0,1
+2019,60,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,11.11,1
+2016,69,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,30.95,0
+2022,54,Female,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,35.25,0
+2019,72,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,0.96,1
+2022,73,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,45.28,1
+2022,79,Female,I-II,1,0,Private,Community,Chemoimmunotherapy,13.55,1
+2016,62,Male,I-II,0,0,Private,Academic/Research,Chemotherapy alone,59.93,0
+2021,69,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,9.45,1
+2021,80,Female,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,82.13,0
+2019,50,Female,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,23.39,0
+2015,63,Male,I-II,1,1,Medicare,Academic/Research,Chemotherapy alone,26.67,1
+2018,68,Male,III-IV,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,18.79,1
+2020,90,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,10.82,1
+2020,63,Male,III-IV,0,1,Medicare,Community,Chemotherapy alone,24.72,1
+2019,65,Female,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,34.19,0
+2017,49,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,13.53,1
+2015,70,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,13.74,1
+2019,76,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,32.23,0
+2017,74,Female,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,66.9,0
+2014,58,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,25.64,1
+2014,76,Female,III-IV,0,1,Private,Community,Chemotherapy alone,24.93,1
+2020,73,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,46.49,0
+2014,90,Male,I-II,0,1,Medicare,Academic/Research,Chemotherapy alone,37.36,1
+2020,66,Male,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,57.57,1
+2016,69,Female,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,36.95,0
+2020,63,Female,I-II,0,1,Private,Community,Chemotherapy alone,10.91,1
+2019,74,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,18.44,0
+2018,64,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,6.5,1
+2018,59,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,48.8,0
+2017,71,Male,I-II,0,1,Private,Academic/Research,Chemotherapy alone,8.71,1
+2018,69,Female,I-II,0,0,Private,Community,Chemotherapy alone,12.2,0
+2022,59,Female,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,12.84,0
+2013,55,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,26.2,1
+2015,83,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,16.22,0
+2021,54,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,53.79,0
+2016,76,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,2.61,1
+2020,52,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,14.95,0
+2019,73,Female,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,16.78,1
+2022,72,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,24.4,1
+2022,74,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,14.63,0
+2019,69,Female,III-IV,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,18.69,1
+2016,64,Female,I-II,1,1,Private,Community,Chemotherapy alone,29.31,1
+2017,54,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,20.07,1
+2014,68,Female,I-II,0,1,Private,Community,Chemotherapy alone,7.57,1
+2018,55,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,21.94,0
+2021,72,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,19.63,1
+2020,63,Female,III-IV,1,0,Private,Community,Chemotherapy alone,16.31,1
+2013,69,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,24.67,1
+2014,65,Female,I-II,1,0,Private,Community,Chemoimmunotherapy,15.63,0
+2018,66,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,32.96,0
+2019,80,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,22.02,1
+2016,69,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,8.79,1
+2021,83,Female,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,16.98,1
+2019,85,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,37.87,0
+2017,51,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,23.84,0
+2017,72,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,34.57,0
+2019,76,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,23.55,0
+2022,55,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,15.32,1
+2019,85,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,61.28,1
+2022,52,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,40.77,0
+2017,50,Female,I-II,1,0,Medicare,Academic/Research,Chemotherapy alone,20.8,0
+2022,70,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,43.79,1
+2014,71,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,30.46,0
+2013,51,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,12.1,1
+2016,57,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,7.44,1
+2014,65,Male,I-II,1,0,Private,Community,Chemotherapy alone,18.06,1
+2022,81,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,11.95,1
+2018,75,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,6.11,1
+2022,78,Male,III-IV,0,1,Medicaid/Other,Community,Chemoimmunotherapy,26.28,0
+2013,73,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,5.42,1
+2017,62,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,16.54,0
+2018,86,Male,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,51.86,1
+2021,58,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,25.16,0
+2013,61,Male,III-IV,0,1,Private,Community,Chemotherapy alone,0.2,1
+2021,75,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,49.34,1
+2016,84,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,37.45,1
+2018,79,Male,I-II,0,1,Medicare,Community,Chemotherapy alone,34.81,1
+2014,70,Female,III-IV,0,1,Private,Academic/Research,Chemotherapy alone,23.75,1
+2015,60,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,82.52,1
+2019,65,Female,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,66.26,1
+2013,59,Female,I-II,0,1,Private,Community,Chemotherapy alone,39.85,0
+2015,62,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,7.59,1
+2020,56,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,44.02,1
+2018,67,Male,I-II,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,78.12,0
+2013,73,Male,III-IV,0,1,Medicaid/Other,Community,Chemotherapy alone,12.66,0
+2014,75,Male,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,8.38,1
+2013,54,Male,I-II,0,0,Private,Academic/Research,Chemotherapy alone,39.73,0
+2017,74,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,12.34,0
+2018,70,Female,I-II,1,0,Medicare,Community,Chemoimmunotherapy,0.81,1
+2017,76,Male,III-IV,0,1,Medicaid/Other,Community,Chemotherapy alone,24.0,1
+2019,81,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,21.41,1
+2017,67,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,34.7,0
+2019,65,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,43.33,1
+2014,50,Male,III-IV,0,1,Medicare,Community,Chemotherapy alone,16.14,1
+2014,67,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,80.96,0
+2020,63,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,5.01,1
+2014,80,Male,I-II,0,0,Medicaid/Other,Community,Chemotherapy alone,46.06,1
+2013,82,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,14.92,1
+2019,86,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,9.08,1
+2020,62,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,12.54,0
+2014,75,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,42.78,1
+2018,87,Female,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,34.51,0
+2014,56,Female,I-II,0,0,Private,Academic/Research,Chemotherapy alone,24.31,1
+2013,66,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,35.3,0
+2013,65,Female,III-IV,0,1,Medicare,Community,Chemotherapy alone,11.0,1
+2014,76,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,62.87,0
+2014,55,Male,III-IV,1,1,Medicare,Academic/Research,Chemotherapy alone,25.09,1
+2019,57,Female,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,16.95,1
+2021,45,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,17.54,1
+2014,75,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,22.14,1
+2017,71,Female,I-II,1,1,Private,Community,Chemoimmunotherapy,52.8,0
+2020,67,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,22.87,0
+2013,55,Male,III-IV,0,0,Medicaid/Other,Community,Chemotherapy alone,57.42,0
+2018,83,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,12.47,1
+2020,71,Male,III-IV,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,39.4,0
+2015,48,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,57.01,1
+2016,65,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,41.7,1
+2019,78,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,27.05,0
+2015,84,Male,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,2.85,1
+2014,61,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,14.03,1
+2018,74,Female,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,8.28,1
+2019,77,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,2.56,1
+2013,46,Male,III-IV,0,1,Medicaid/Other,Academic/Research,Chemotherapy alone,23.42,1
+2014,74,Female,I-II,1,0,Private,Community,Chemotherapy alone,9.36,1
+2022,61,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,65.27,0
+2022,40,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,83.79,0
+2015,89,Male,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,0.94,1
+2013,72,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,21.88,1
+2018,62,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,26.91,1
+2021,79,Male,III-IV,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,9.93,1
+2015,70,Male,I-II,1,0,Medicare,Community,Chemotherapy alone,70.47,0
+2017,71,Female,III-IV,1,0,Private,Community,Chemoimmunotherapy,35.33,0
+2019,77,Male,III-IV,1,1,Private,Academic/Research,Chemoimmunotherapy,33.81,1
+2021,77,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,37.27,1
+2016,64,Male,I-II,1,0,Medicaid/Other,Community,Chemoimmunotherapy,6.58,1
+2014,58,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,55.55,0
+2016,68,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,12.79,1
+2019,74,Male,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,66.49,0
+2019,46,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,62.13,0
+2015,64,Female,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,72.32,1
+2016,64,Female,I-II,1,1,Medicare,Community,Chemoimmunotherapy,15.45,1
+2016,54,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,73.65,0
+2014,49,Female,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,26.6,0
+2022,53,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,17.47,1
+2013,59,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,32.41,1
+2014,52,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,12.34,1
+2018,68,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,42.47,1
+2014,65,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,5.58,1
+2013,66,Female,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,23.05,1
+2021,60,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,22.22,1
+2019,52,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,74.35,0
+2021,81,Female,I-II,1,0,Medicaid/Other,Community,Chemoimmunotherapy,23.95,1
+2014,76,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,6.76,1
+2014,68,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,45.4,1
+2015,70,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,71.53,0
+2015,72,Female,I-II,1,0,Medicare,Community,Chemotherapy alone,22.97,1
+2017,65,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,20.04,0
+2015,56,Female,III-IV,1,0,Medicare,Community,Chemotherapy alone,25.33,1
+2015,78,Male,III-IV,0,0,Medicaid/Other,Community,Chemotherapy alone,6.98,1
+2018,80,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,40.69,1
+2017,55,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,46.84,0
+2018,79,Male,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,13.92,1
+2017,65,Female,III-IV,1,1,Private,Academic/Research,Chemoimmunotherapy,1.55,1
+2021,67,Male,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,20.28,0
+2014,76,Female,III-IV,1,0,Private,Community,Chemotherapy alone,12.29,1
+2017,71,Male,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,53.81,1
+2021,48,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,77.66,0
+2020,62,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,30.95,0
+2021,67,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,42.08,0
+2017,86,Male,I-II,1,0,Medicare,Academic/Research,Chemotherapy alone,13.02,0
+2017,57,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,12.42,0
+2015,67,Female,I-II,1,0,Medicare,Community,Chemotherapy alone,56.76,1
+2019,66,Male,III-IV,0,1,Medicaid/Other,Community,Chemoimmunotherapy,24.03,1
+2021,51,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,64.25,0
+2015,72,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,21.41,1
+2020,67,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,11.05,1
+2020,72,Male,I-II,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,2.31,1
+2017,50,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,58.04,0
+2021,76,Female,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,10.75,1
+2020,73,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,79.99,0
+2019,59,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,44.72,0
+2020,59,Male,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,28.22,0
+2015,50,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,13.85,0
+2021,68,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,25.97,1
+2018,52,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,26.33,0
+2018,70,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,15.47,1
+2018,72,Male,I-II,1,1,Private,Community,Chemoimmunotherapy,45.03,1
+2018,53,Female,III-IV,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,39.68,0
+2018,41,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,13.07,0
+2018,66,Female,III-IV,1,0,Private,Community,Chemoimmunotherapy,0.83,1
+2019,68,Male,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,8.14,1
+2021,66,Male,III-IV,1,0,Private,Community,Chemoimmunotherapy,45.33,0
+2020,90,Male,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,15.92,1
+2014,72,Male,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,1.31,1
+2019,73,Female,III-IV,1,1,Private,Academic/Research,Chemotherapy alone,28.33,1
+2016,75,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,44.86,0
+2015,86,Male,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,18.23,1
+2020,74,Female,III-IV,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,0.7,1
+2019,84,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,35.39,1
+2018,61,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,25.42,0
+2022,55,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,35.16,1
+2022,70,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,28.4,1
+2017,76,Male,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,4.18,1
+2015,42,Male,I-II,1,1,Private,Community,Chemoimmunotherapy,18.57,0
+2022,58,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,23.95,0
+2022,66,Female,I-II,1,0,Private,Academic/Research,Chemoimmunotherapy,20.67,0
+2015,79,Male,I-II,0,1,Medicaid/Other,Academic/Research,Chemotherapy alone,0.8,1
+2020,80,Female,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,11.78,1
+2015,74,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,17.34,1
+2017,70,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,27.62,0
+2018,51,Female,I-II,1,1,Private,Community,Chemotherapy alone,4.82,1
+2022,63,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,46.2,0
+2017,73,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,24.11,1
+2019,61,Male,I-II,1,1,Medicaid/Other,Community,Chemoimmunotherapy,28.75,0
+2018,69,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,18.03,1
+2013,57,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,18.09,0
+2018,84,Male,III-IV,1,1,Medicare,Academic/Research,Chemotherapy alone,1.8,1
+2020,67,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,5.84,1
+2021,75,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,28.29,1
+2016,67,Female,III-IV,0,0,Private,Community,Chemotherapy alone,16.21,1
+2019,66,Male,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,56.32,0
+2015,63,Female,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,32.82,1
+2013,82,Female,III-IV,1,0,Medicaid/Other,Academic/Research,Chemotherapy alone,34.22,1
+2020,62,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,8.04,1
+2015,83,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,15.04,1
+2021,88,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,19.28,1
+2014,84,Male,III-IV,0,1,Medicare,Community,Chemotherapy alone,49.1,1
+2021,59,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,28.78,0
+2019,76,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,12.5,1
+2013,62,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,66.47,0
+2018,61,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,1.35,1
+2016,68,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,30.84,1
+2018,54,Female,III-IV,0,0,Medicaid/Other,Community,Chemotherapy alone,6.41,1
+2017,72,Female,III-IV,1,0,Private,Community,Chemoimmunotherapy,47.36,0
+2015,73,Male,I-II,0,0,Private,Community,Chemotherapy alone,51.77,0
+2021,50,Female,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,19.84,0
+2022,71,Female,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,3.63,1
+2016,70,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,9.14,1
+2016,57,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,58.47,0
+2019,63,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,12.96,1
+2017,63,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,10.09,1
+2017,62,Female,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,19.66,1
+2014,64,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,9.92,1
+2017,70,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,65.65,0
+2022,82,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,67.35,0
+2019,67,Male,III-IV,0,1,Private,Academic/Research,Chemotherapy alone,9.96,1
+2015,73,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,74.77,0
+2022,56,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,68.96,0
+2013,75,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,21.02,1
+2014,66,Female,I-II,1,1,Private,Academic/Research,Chemotherapy alone,23.19,1
+2019,83,Female,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,2.64,1
+2014,82,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,78.97,0
+2017,82,Female,III-IV,0,1,Private,Community,Chemotherapy alone,16.59,1
+2016,70,Male,I-II,1,1,Private,Community,Chemoimmunotherapy,27.78,0
+2019,84,Female,III-IV,0,0,Medicaid/Other,Community,Chemotherapy alone,8.13,1
+2016,61,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,16.92,1
+2021,70,Female,I-II,1,0,Medicare,Community,Chemoimmunotherapy,1.61,1
+2021,69,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,1.54,1
+2020,58,Female,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,21.12,0
+2016,58,Male,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,23.08,1
+2016,56,Female,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,4.97,1
+2014,84,Male,III-IV,1,0,Medicare,Community,Chemotherapy alone,6.53,1
+2013,52,Female,III-IV,1,0,Medicare,Community,Chemotherapy alone,30.21,0
+2013,50,Male,III-IV,1,1,Medicaid/Other,Academic/Research,Chemotherapy alone,15.13,0
+2014,70,Male,I-II,0,1,Medicare,Community,Chemotherapy alone,64.7,0
+2018,90,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,14.54,1
+2021,46,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,14.91,0
+2020,62,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,31.61,1
+2014,85,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,6.58,1
+2017,65,Female,I-II,0,0,Private,Community,Chemotherapy alone,82.59,0
+2016,65,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,30.61,1
+2020,69,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,54.27,0
+2021,79,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,3.35,1
+2017,77,Male,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,18.58,1
+2014,60,Male,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,62.56,1
+2019,52,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,3.46,1
+2014,64,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,7.74,1
+2015,71,Male,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,11.31,1
+2013,64,Male,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,52.05,0
+2022,85,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,17.32,1
+2022,63,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,27.26,0
+2016,84,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,13.58,1
+2014,63,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,10.97,1
+2017,81,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,31.24,0
+2016,90,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,21.64,1
+2016,86,Female,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,21.06,0
+2016,75,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,52.75,1
+2013,57,Female,III-IV,1,1,Private,Community,Chemotherapy alone,1.4,1
+2017,74,Male,III-IV,1,0,Private,Community,Chemoimmunotherapy,41.05,1
+2018,90,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,9.36,1
+2016,75,Male,III-IV,1,0,Private,Academic/Research,Chemotherapy alone,27.57,0
+2014,77,Male,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,34.69,1
+2016,36,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,27.92,1
+2021,53,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,11.04,1
+2016,60,Male,I-II,1,1,Private,Community,Chemoimmunotherapy,32.58,1
+2013,52,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,6.76,1
+2019,68,Female,III-IV,0,1,Medicaid/Other,Community,Chemoimmunotherapy,64.01,0
+2016,57,Male,III-IV,0,1,Medicare,Community,Chemotherapy alone,14.88,0
+2018,68,Male,I-II,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,17.71,0
+2021,58,Female,I-II,1,1,Medicare,Community,Chemoimmunotherapy,66.49,1
+2017,76,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,18.29,0
+2013,51,Male,III-IV,1,1,Medicare,Academic/Research,Chemotherapy alone,0.38,1
+2018,58,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,15.95,1
+2013,78,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,56.5,1
+2013,65,Female,III-IV,1,1,Private,Academic/Research,Chemotherapy alone,24.96,0
+2017,60,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,30.06,1
+2015,81,Male,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,9.87,1
+2017,65,Male,I-II,1,1,Medicare,Academic/Research,Chemotherapy alone,7.74,1
+2020,62,Female,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,36.22,0
+2019,68,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,57.6,0
+2021,70,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,10.08,1
+2013,78,Female,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,9.38,1
+2019,69,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,9.76,1
+2018,73,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,3.23,1
+2016,60,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,20.05,1
+2017,57,Female,I-II,0,1,Private,Academic/Research,Chemotherapy alone,12.48,1
+2018,74,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,28.1,1
+2016,77,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,47.13,1
+2019,43,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,25.05,0
+2017,67,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,19.63,0
+2015,78,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,0.69,1
+2021,87,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,27.47,1
+2015,57,Female,III-IV,1,1,Medicaid/Other,Community,Chemoimmunotherapy,9.84,1
+2022,61,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,20.84,1
+2017,64,Male,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,0.06,1
+2019,86,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,45.92,1
+2018,75,Female,III-IV,1,0,Private,Community,Chemotherapy alone,21.33,0
+2018,65,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,13.65,1
+2022,76,Female,III-IV,1,1,Private,Community,Chemoimmunotherapy,28.59,0
+2022,59,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,32.8,1
+2018,80,Female,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,20.96,1
+2019,68,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,2.37,1
+2013,80,Female,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,51.77,0
+2018,65,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,21.84,0
+2016,72,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,12.09,1
+2019,66,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,41.06,0
+2020,75,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,3.42,1
+2014,67,Male,I-II,1,1,Private,Community,Chemotherapy alone,28.25,1
+2014,50,Male,I-II,0,0,Private,Community,Chemotherapy alone,6.53,1
+2016,66,Male,III-IV,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,6.76,1
+2017,54,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,55.49,0
+2022,90,Male,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,5.24,1
+2015,56,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,10.06,1
+2020,70,Male,III-IV,1,1,Medicare,Academic/Research,Chemotherapy alone,9.66,1
+2021,63,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,15.29,1
+2016,74,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,42.53,1
+2021,72,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,21.08,1
+2019,51,Male,I-II,0,1,Private,Academic/Research,Chemotherapy alone,20.87,0
+2020,58,Male,III-IV,0,1,Private,Academic/Research,Chemotherapy alone,8.22,1
+2015,68,Female,I-II,1,0,Medicare,Academic/Research,Chemotherapy alone,14.76,0
+2015,77,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,15.43,1
+2019,78,Male,I-II,1,1,Medicare,Academic/Research,Chemotherapy alone,10.81,1
+2014,65,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,1.74,1
+2017,76,Female,I-II,1,1,Private,Academic/Research,Chemoimmunotherapy,19.69,1
+2019,69,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,45.63,1
+2018,43,Female,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,57.55,0
+2015,46,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,15.47,1
+2021,70,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,76.44,1
+2016,87,Female,III-IV,1,1,Medicare,Community,Chemotherapy alone,2.72,1
+2018,60,Female,I-II,1,0,Private,Academic/Research,Chemotherapy alone,3.4,1
+2014,64,Male,I-II,0,0,Private,Community,Chemotherapy alone,22.35,0
+2017,64,Female,I-II,0,1,Private,Academic/Research,Chemotherapy alone,2.82,1
+2017,58,Female,I-II,0,1,Medicaid/Other,Community,Chemotherapy alone,21.38,0
+2022,81,Male,III-IV,0,1,Medicare,Community,Chemotherapy alone,0.59,1
+2013,72,Female,III-IV,1,1,Private,Community,Chemotherapy alone,45.14,1
+2016,85,Male,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,4.09,1
+2022,41,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,65.32,0
+2016,48,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,47.92,0
+2021,55,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,42.88,0
+2014,66,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,36.01,0
+2018,65,Male,I-II,1,0,Private,Community,Chemoimmunotherapy,32.23,0
+2014,77,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,53.95,1
+2014,78,Male,I-II,0,1,Medicare,Academic/Research,Chemotherapy alone,3.14,1
+2017,80,Male,III-IV,1,0,Medicare,Community,Chemotherapy alone,26.54,0
+2017,62,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,12.6,0
+2019,50,Female,I-II,1,1,Private,Community,Chemoimmunotherapy,44.37,0
+2017,65,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,16.44,0
+2015,68,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,63.74,0
+2017,79,Female,I-II,0,1,Medicare,Community,Chemotherapy alone,39.47,0
+2015,90,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,33.27,1
+2022,62,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,7.38,1
+2016,55,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,49.05,0
+2019,80,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,48.19,1
+2013,70,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,32.87,1
+2017,64,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,28.82,0
+2015,75,Male,III-IV,0,1,Medicaid/Other,Community,Chemotherapy alone,29.15,0
+2019,43,Female,III-IV,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,17.1,1
+2018,87,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,12.49,1
+2019,80,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,13.85,1
+2018,75,Female,III-IV,0,1,Private,Community,Chemotherapy alone,0.49,1
+2016,67,Female,III-IV,0,1,Private,Academic/Research,Chemotherapy alone,34.25,1
+2021,69,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,19.67,0
+2015,72,Male,III-IV,0,1,Medicare,Community,Chemotherapy alone,21.21,0
+2015,90,Female,I-II,0,0,Private,Community,Chemotherapy alone,21.55,1
+2015,64,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,16.91,1
+2022,60,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,59.86,1
+2018,75,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,13.72,1
+2018,68,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,1.37,1
+2020,83,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,3.04,1
+2014,65,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,23.87,0
+2019,90,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,19.57,0
+2019,68,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,23.03,1
+2015,60,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,5.31,1
+2021,83,Female,III-IV,1,0,Medicaid/Other,Academic/Research,Chemotherapy alone,0.09,1
+2022,75,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,34.33,1
+2016,62,Male,I-II,1,0,Medicare,Community,Chemotherapy alone,42.14,1
+2017,84,Male,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,6.13,1
+2020,80,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,57.88,0
+2022,51,Female,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,74.52,0
+2015,69,Male,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,5.88,1
+2016,75,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,70.65,0
+2019,67,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,8.39,1
+2014,52,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,33.73,1
+2019,73,Female,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,15.76,1
+2015,55,Female,III-IV,1,0,Private,Community,Chemoimmunotherapy,35.35,0
+2013,73,Male,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,17.82,1
+2017,75,Male,I-II,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,16.44,0
+2018,50,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,56.73,0
+2013,70,Male,III-IV,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,7.21,1
+2021,62,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,1.51,1
+2018,79,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,3.19,1
+2019,84,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,53.6,1
+2015,69,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,17.93,1
+2014,81,Male,I-II,1,0,Medicare,Academic/Research,Chemotherapy alone,4.34,1
+2015,68,Female,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,26.53,1
+2019,85,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,3.87,1
+2021,82,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,16.29,1
+2021,59,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,13.79,0
+2020,74,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,27.96,1
+2013,72,Female,III-IV,1,0,Private,Academic/Research,Chemotherapy alone,6.46,1
+2018,72,Female,I-II,0,0,Private,Community,Chemotherapy alone,48.26,0
+2022,90,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,8.65,1
+2014,67,Female,I-II,0,0,Private,Academic/Research,Chemotherapy alone,16.87,1
+2013,78,Female,III-IV,1,0,Private,Community,Chemoimmunotherapy,67.08,0
+2022,71,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,4.26,1
+2021,63,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,22.6,1
+2014,63,Male,III-IV,1,1,Private,Academic/Research,Chemotherapy alone,47.82,0
+2013,79,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,17.56,1
+2013,61,Female,I-II,0,0,Medicaid/Other,Community,Chemotherapy alone,19.31,1
+2018,64,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,76.94,0
+2020,70,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,5.42,1
+2017,62,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,28.39,1
+2014,82,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,6.08,1
+2019,56,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,33.76,0
+2013,61,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,12.54,1
+2013,82,Female,III-IV,1,0,Private,Community,Chemotherapy alone,49.07,1
+2013,77,Female,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,64.03,1
+2013,43,Male,I-II,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,63.22,0
+2013,56,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,25.26,1
+2022,77,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,51.07,1
+2022,71,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,11.76,1
+2016,88,Male,III-IV,0,1,Medicare,Community,Chemotherapy alone,51.18,1
+2017,75,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,0.17,1
+2013,69,Female,III-IV,1,1,Medicare,Community,Chemotherapy alone,15.11,1
+2017,88,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,34.58,0
+2013,69,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,23.43,1
+2018,55,Female,I-II,1,0,Private,Academic/Research,Chemoimmunotherapy,19.3,1
+2016,55,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,6.5,1
+2018,68,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,51.17,0
+2020,78,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,71.98,0
+2019,51,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,15.95,0
+2018,63,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,65.72,0
+2013,64,Male,I-II,1,0,Medicare,Academic/Research,Chemotherapy alone,19.86,1
+2016,87,Male,I-II,0,1,Private,Community,Chemotherapy alone,9.08,1
+2015,64,Female,I-II,1,1,Medicaid/Other,Academic/Research,Chemotherapy alone,18.28,0
+2020,81,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,24.95,0
+2018,69,Male,I-II,0,1,Medicare,Community,Chemotherapy alone,34.2,0
+2022,64,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,55.74,0
+2021,70,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,10.01,1
+2013,76,Male,III-IV,1,0,Private,Community,Chemotherapy alone,32.14,1
+2016,90,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,2.99,1
+2013,69,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,47.25,0
+2014,42,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,39.2,1
+2022,71,Female,I-II,1,0,Private,Academic/Research,Chemoimmunotherapy,83.69,0
+2014,68,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,50.43,0
+2018,64,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,7.53,1
+2019,72,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,30.55,0
+2018,53,Female,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,34.09,0
+2013,71,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,22.07,1
+2021,63,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,16.66,1
+2018,80,Female,III-IV,0,1,Private,Academic/Research,Chemotherapy alone,14.11,0
+2014,55,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,17.34,1
+2022,67,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,52.6,0
+2020,59,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,44.37,0
+2015,77,Female,I-II,0,0,Private,Academic/Research,Chemotherapy alone,47.58,1
+2020,84,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,22.04,1
+2018,63,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,23.9,0
+2013,77,Male,III-IV,0,0,Private,Community,Chemotherapy alone,10.15,1
+2020,64,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,19.81,0
+2022,54,Female,III-IV,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,20.56,0
+2014,74,Female,I-II,1,1,Private,Community,Chemotherapy alone,2.66,1
+2018,70,Female,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,30.4,1
+2013,53,Female,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,23.62,0
+2022,68,Female,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,45.7,0
+2021,67,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,16.25,1
+2021,80,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,53.95,1
+2016,53,Female,I-II,0,1,Private,Community,Chemoimmunotherapy,14.18,1
+2015,50,Female,I-II,1,0,Private,Academic/Research,Chemoimmunotherapy,32.36,1
+2013,84,Female,I-II,0,1,Medicare,Community,Chemotherapy alone,21.39,1
+2017,56,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,4.11,1
+2022,41,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,27.16,0
+2022,67,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,52.81,0
+2015,64,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,27.26,1
+2020,61,Female,I-II,0,1,Private,Community,Chemoimmunotherapy,18.18,1
+2017,82,Male,I-II,1,0,Private,Community,Chemoimmunotherapy,13.05,1
+2019,56,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,15.64,1
+2018,80,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,17.56,1
+2021,81,Male,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,59.8,0
+2013,49,Male,I-II,1,0,Medicare,Academic/Research,Chemotherapy alone,36.33,1
+2014,81,Male,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,15.38,1
+2014,50,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,51.69,1
+2016,64,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,33.65,1
+2016,67,Male,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,56.71,0
+2021,76,Male,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,17.82,1
+2018,52,Female,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,73.83,0
+2014,59,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,12.09,1
+2015,83,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,9.61,1
+2013,75,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,3.29,1
+2016,67,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,69.44,1
+2018,56,Male,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,19.91,0
+2017,69,Female,I-II,1,0,Private,Community,Chemotherapy alone,20.81,1
+2014,62,Male,I-II,0,1,Private,Community,Chemotherapy alone,11.61,1
+2014,78,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,31.74,1
+2022,59,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,26.45,1
+2018,66,Female,I-II,1,1,Private,Academic/Research,Chemoimmunotherapy,56.47,0
+2021,62,Female,I-II,0,1,Private,Community,Chemotherapy alone,72.09,1
+2019,72,Female,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,14.16,1
+2016,71,Female,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,4.19,1
+2014,69,Male,I-II,1,0,Medicare,Community,Chemotherapy alone,15.41,1
+2016,75,Male,III-IV,1,1,Private,Community,Chemotherapy alone,3.52,1
+2019,62,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,21.51,0
+2013,64,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,0.11,1
+2013,56,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,0.62,1
+2021,67,Male,I-II,0,1,Private,Community,Chemotherapy alone,52.79,0
+2018,79,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,17.35,1
+2017,74,Male,III-IV,1,1,Medicare,Academic/Research,Chemotherapy alone,8.75,1
+2018,90,Male,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,13.23,1
+2021,64,Female,III-IV,1,1,Medicaid/Other,Community,Chemoimmunotherapy,15.9,1
+2018,90,Female,I-II,0,1,Private,Community,Chemoimmunotherapy,17.25,1
+2016,68,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,16.89,0
+2016,61,Male,III-IV,1,0,Medicare,Community,Chemotherapy alone,70.7,1
+2021,64,Female,III-IV,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,16.52,1
+2017,65,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,12.97,0
+2020,70,Male,I-II,0,1,Private,Academic/Research,Chemotherapy alone,56.08,1
+2018,62,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,71.1,0
+2014,69,Female,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,71.99,0
+2015,77,Female,I-II,0,1,Private,Academic/Research,Chemotherapy alone,5.59,1
+2017,69,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,50.74,1
+2014,90,Female,III-IV,1,0,Medicare,Community,Chemotherapy alone,21.11,1
+2021,52,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,77.78,0
+2014,70,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,15.03,0
+2022,80,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,61.75,0
+2022,65,Female,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,0.84,1
+2014,72,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,9.7,1
+2014,76,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,7.09,1
+2015,55,Male,I-II,0,0,Medicaid/Other,Community,Chemotherapy alone,1.26,1
+2015,73,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,72.78,0
+2013,60,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,78.83,0
+2018,73,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,34.04,0
+2022,85,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,43.92,0
+2014,66,Male,I-II,0,0,Private,Academic/Research,Chemotherapy alone,5.23,1
+2018,62,Male,I-II,1,1,Medicare,Community,Chemotherapy alone,33.16,1
+2013,71,Male,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,47.73,0
+2019,47,Female,III-IV,1,1,Medicaid/Other,Community,Chemoimmunotherapy,14.05,1
+2015,77,Male,III-IV,1,0,Medicare,Community,Chemotherapy alone,9.87,1
+2015,46,Female,I-II,0,1,Private,Academic/Research,Chemotherapy alone,66.97,0
+2019,73,Male,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,27.9,1
+2020,79,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,12.13,1
+2022,59,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,25.63,1
+2019,45,Female,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,13.86,0
+2019,78,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,13.37,1
+2018,40,Male,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,34.77,0
+2013,87,Female,III-IV,1,0,Private,Community,Chemotherapy alone,6.63,1
+2018,90,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,40.23,0
+2020,85,Male,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,5.94,1
+2021,52,Female,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,33.36,0
+2017,53,Male,III-IV,0,0,Private,Community,Chemotherapy alone,18.95,0
+2017,49,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,42.27,0
+2021,55,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,47.08,0
+2022,65,Male,III-IV,1,1,Medicaid/Other,Community,Chemoimmunotherapy,9.12,1
+2022,80,Female,III-IV,1,0,Medicare,Community,Chemotherapy alone,15.34,1
+2018,80,Male,I-II,0,1,Private,Academic/Research,Chemotherapy alone,1.15,1
+2015,82,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,8.18,1
+2022,65,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,52.59,1
+2022,70,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,51.06,0
+2014,59,Female,III-IV,0,1,Medicare,Community,Chemotherapy alone,14.95,1
+2013,52,Female,III-IV,1,1,Private,Academic/Research,Chemotherapy alone,24.0,0
+2013,65,Male,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,22.67,1
+2014,81,Female,I-II,0,1,Medicare,Community,Chemotherapy alone,16.49,1
+2015,69,Female,III-IV,0,0,Private,Community,Chemotherapy alone,53.36,0
+2017,64,Male,I-II,1,1,Private,Academic/Research,Chemoimmunotherapy,2.18,1
+2015,60,Female,III-IV,0,1,Private,Academic/Research,Chemotherapy alone,42.38,0
+2021,61,Male,III-IV,0,1,Medicare,Community,Chemotherapy alone,9.95,1
+2019,78,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,34.97,0
+2015,77,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,24.36,1
+2018,62,Female,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,20.78,0
+2022,66,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,22.77,0
+2016,66,Female,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,34.14,0
+2020,54,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,20.3,1
+2020,59,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,50.8,1
+2017,87,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,20.59,1
+2016,62,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,12.41,0
+2022,59,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,37.37,0
+2017,76,Female,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,10.57,1
+2019,61,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,23.29,0
+2020,63,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,49.99,0
+2017,79,Female,III-IV,0,1,Medicaid/Other,Community,Chemotherapy alone,10.44,1
+2017,66,Female,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,79.75,0
+2013,54,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,41.63,1
+2013,62,Male,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,55.96,1
+2015,71,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,68.74,0
+2013,64,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,22.05,1
+2020,68,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,4.44,1
+2017,70,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,0.17,1
+2021,48,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,21.79,0
+2018,82,Male,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,54.63,0
+2017,60,Female,I-II,1,0,Medicaid/Other,Community,Chemotherapy alone,48.91,0
+2022,66,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,9.76,1
+2014,81,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,8.96,1
+2022,65,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,0.73,1
+2022,58,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,73.4,0
+2021,74,Female,III-IV,1,1,Private,Community,Chemoimmunotherapy,19.25,1
+2019,72,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,25.85,0
+2022,63,Male,I-II,1,1,Private,Community,Chemoimmunotherapy,48.53,0
+2018,48,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,12.61,1
+2016,73,Male,I-II,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,14.69,1
+2013,62,Male,III-IV,0,0,Private,Community,Chemotherapy alone,76.86,1
+2017,74,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,6.19,1
+2017,66,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,18.41,1
+2016,60,Male,III-IV,1,1,Medicare,Academic/Research,Chemotherapy alone,5.37,1
+2017,56,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,14.54,0
+2018,59,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,12.54,1
+2020,53,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,35.09,0
+2017,42,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,26.65,0
+2018,62,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,17.07,0
+2022,71,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,68.02,0
+2021,80,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,1.61,1
+2016,88,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,20.85,1
+2018,69,Male,III-IV,1,1,Private,Academic/Research,Chemotherapy alone,5.72,1
+2015,74,Female,III-IV,1,1,Private,Academic/Research,Chemotherapy alone,20.55,1
+2020,44,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,79.22,0
+2019,66,Female,III-IV,1,0,Medicare,Community,Chemotherapy alone,2.86,1
+2017,61,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,14.37,1
+2013,66,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,67.09,0
+2015,65,Female,I-II,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,43.87,0
+2021,54,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,72.79,0
+2022,68,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,7.31,1
+2017,72,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,5.6,1
+2018,56,Male,I-II,1,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,14.13,1
+2018,75,Male,I-II,1,0,Private,Academic/Research,Chemoimmunotherapy,17.03,1
+2017,80,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,42.74,0
+2020,60,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,12.71,0
+2014,88,Female,III-IV,1,1,Medicare,Community,Chemotherapy alone,3.89,1
+2020,54,Female,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,19.47,1
+2018,61,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,9.91,1
+2019,83,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,7.89,1
+2016,71,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,6.14,1
+2013,67,Male,I-II,0,1,Private,Community,Chemotherapy alone,40.04,0
+2022,82,Male,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,21.62,0
+2015,71,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,8.62,1
+2013,77,Female,I-II,1,1,Private,Community,Chemotherapy alone,4.01,1
+2016,70,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,10.77,1
+2021,64,Female,I-II,1,1,Private,Community,Chemoimmunotherapy,20.97,1
+2013,79,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,1.48,1
+2015,79,Male,III-IV,1,0,Private,Community,Chemoimmunotherapy,9.24,1
+2017,67,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,15.36,1
+2013,82,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,14.03,1
+2015,46,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,79.76,0
+2020,83,Female,I-II,0,0,Private,Community,Chemotherapy alone,17.27,1
+2021,54,Female,I-II,1,0,Medicare,Community,Chemoimmunotherapy,50.57,0
+2014,80,Male,I-II,1,1,Private,Academic/Research,Chemotherapy alone,31.24,1
+2018,59,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,55.47,0
+2018,61,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,41.85,0
+2018,60,Male,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,45.57,0
+2022,58,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,2.88,1
+2019,52,Male,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,18.09,1
+2014,71,Male,I-II,1,0,Medicaid/Other,Community,Chemoimmunotherapy,47.75,1
+2016,86,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,40.67,1
+2015,35,Female,I-II,1,1,Private,Community,Chemoimmunotherapy,46.84,0
+2019,64,Female,III-IV,0,1,Medicaid/Other,Community,Chemoimmunotherapy,15.18,0
+2017,49,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,43.18,1
+2018,70,Female,III-IV,1,0,Private,Community,Chemoimmunotherapy,9.12,1
+2016,54,Male,I-II,1,0,Private,Community,Chemoimmunotherapy,29.15,0
+2016,90,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,31.3,1
+2019,60,Male,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,24.32,1
+2014,88,Female,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,5.16,1
+2014,75,Female,III-IV,1,0,Medicaid/Other,Community,Chemotherapy alone,24.01,0
+2014,80,Male,I-II,0,1,Private,Community,Chemotherapy alone,32.03,1
+2022,85,Male,I-II,1,1,Medicare,Community,Chemoimmunotherapy,52.95,0
+2019,67,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,6.07,1
+2014,64,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,21.83,0
+2018,83,Male,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,6.69,1
+2017,76,Male,III-IV,0,0,Medicaid/Other,Community,Chemotherapy alone,12.74,1
+2020,74,Female,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,5.92,1
+2013,82,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,31.83,1
+2022,84,Female,III-IV,1,1,Medicare,Academic/Research,Chemotherapy alone,18.03,1
+2017,63,Male,I-II,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,36.72,0
+2015,76,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,24.15,1
+2019,68,Female,I-II,0,0,Private,Academic/Research,Chemotherapy alone,2.73,1
+2019,65,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,77.38,1
+2015,85,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,26.33,1
+2013,80,Female,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,24.52,0
+2021,68,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,21.61,1
+2022,68,Male,III-IV,0,1,Medicare,Community,Chemotherapy alone,40.11,0
+2021,60,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,47.87,0
+2021,58,Male,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,9.38,1
+2020,59,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,42.35,0
+2022,42,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,64.56,0
+2017,79,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,60.95,0
+2020,71,Female,I-II,1,0,Private,Community,Chemoimmunotherapy,17.4,1
+2022,62,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,33.15,1
+2013,71,Female,III-IV,1,0,Medicaid/Other,Community,Chemotherapy alone,28.29,1
+2013,63,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,16.58,0
+2021,73,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,20.03,1
+2020,70,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,42.2,0
+2017,53,Male,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,1.18,1
+2020,67,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,62.7,0
+2019,76,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,3.22,1
+2015,49,Female,I-II,1,0,Private,Community,Chemoimmunotherapy,27.43,1
+2015,68,Female,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,31.79,0
+2020,53,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,32.44,0
+2014,80,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,45.77,1
+2016,80,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,75.77,0
+2016,69,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,79.55,1
+2015,80,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,44.89,0
+2016,65,Female,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,33.62,1
+2014,73,Male,I-II,0,1,Private,Community,Chemotherapy alone,7.73,1
+2014,57,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,32.07,1
+2021,51,Male,III-IV,1,1,Private,Academic/Research,Chemoimmunotherapy,18.35,0
+2017,71,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,12.12,1
+2019,59,Male,III-IV,0,1,Medicaid/Other,Academic/Research,Chemotherapy alone,31.56,1
+2019,41,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,29.05,0
+2021,87,Male,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,18.49,1
+2022,32,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,27.88,0
+2020,71,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,26.84,0
+2019,55,Male,III-IV,0,1,Private,Community,Chemotherapy alone,30.98,1
+2016,55,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,12.17,0
+2015,64,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,44.14,1
+2015,90,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,23.48,0
+2018,70,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,3.28,1
+2015,71,Female,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,42.31,0
+2013,50,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,9.77,1
+2016,65,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,14.29,1
+2022,77,Male,I-II,0,1,Medicaid/Other,Community,Chemotherapy alone,63.29,1
+2020,73,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,16.0,1
+2015,74,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,18.51,0
+2019,61,Female,I-II,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,33.99,0
+2017,68,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,18.96,0
+2022,50,Male,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,4.76,1
+2020,57,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,17.84,1
+2017,55,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,27.98,1
+2021,56,Male,I-II,1,1,Private,Academic/Research,Chemotherapy alone,5.52,1
+2013,56,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,59.75,0
+2020,76,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,15.24,0
+2020,71,Male,I-II,1,0,Private,Community,Chemoimmunotherapy,14.28,0
+2013,83,Female,I-II,1,0,Medicare,Community,Chemotherapy alone,51.29,1
+2013,70,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,2.1,1
+2013,86,Male,III-IV,1,1,Medicaid/Other,Community,Chemotherapy alone,1.37,1
+2014,51,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,16.9,1
+2021,69,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,16.35,0
+2014,61,Male,III-IV,0,1,Private,Academic/Research,Chemotherapy alone,0.78,1
+2016,77,Female,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,9.43,1
+2021,67,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,15.1,1
+2018,72,Female,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,53.72,0
+2018,84,Female,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,42.16,1
+2022,71,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,55.83,0
+2017,61,Male,III-IV,0,1,Private,Community,Chemotherapy alone,4.88,1
+2016,70,Male,III-IV,1,1,Private,Community,Chemotherapy alone,47.21,1
+2016,59,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,42.54,1
+2019,74,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,5.95,1
+2020,74,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,5.12,1
+2019,71,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,18.68,1
+2022,81,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,3.73,1
+2016,64,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,69.12,1
+2017,75,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,47.29,0
+2016,82,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,52.12,0
+2016,74,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,52.3,0
+2015,79,Female,III-IV,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,4.5,1
+2015,73,Male,I-II,1,0,Private,Community,Chemoimmunotherapy,41.38,1
+2013,80,Female,III-IV,0,1,Medicare,Community,Chemotherapy alone,2.52,1
+2017,74,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,30.06,1
+2016,72,Male,I-II,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,10.96,1
+2019,76,Female,I-II,1,0,Medicare,Community,Chemoimmunotherapy,7.63,1
+2017,58,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,61.74,1
+2021,71,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,21.14,1
+2020,69,Female,I-II,1,0,Private,Community,Chemoimmunotherapy,40.27,0
+2014,59,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,66.16,0
+2015,70,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,17.77,0
+2021,69,Female,III-IV,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,13.74,0
+2018,73,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,54.43,0
+2022,60,Male,I-II,1,1,Private,Academic/Research,Chemoimmunotherapy,67.03,0
+2021,68,Male,I-II,1,0,Medicare,Community,Chemotherapy alone,3.66,1
+2021,51,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,71.45,0
+2017,77,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,15.32,1
+2013,72,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,31.18,0
+2013,55,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,23.44,1
+2021,80,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,25.96,0
+2022,90,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,32.81,0
+2017,68,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,8.14,1
+2021,68,Female,I-II,1,0,Medicaid/Other,Community,Chemoimmunotherapy,2.9,1
+2020,73,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,40.54,1
+2016,69,Male,III-IV,0,0,Private,Community,Chemotherapy alone,39.45,0
+2015,76,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,12.54,1
+2018,72,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,35.75,0
+2017,79,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,49.48,0
+2019,70,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,25.94,0
+2019,90,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,23.31,0
+2018,69,Female,I-II,0,1,Private,Community,Chemoimmunotherapy,24.3,0
+2018,77,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,14.38,1
+2020,78,Male,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,0.83,1
+2020,59,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,51.55,0
+2021,48,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,68.76,0
+2018,46,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,25.81,0
+2022,89,Female,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,2.32,1
+2021,65,Male,I-II,1,1,Medicare,Community,Chemoimmunotherapy,44.96,1
+2016,64,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,2.32,1
+2018,64,Male,I-II,1,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,47.72,1
+2018,58,Male,III-IV,0,1,Private,Community,Chemotherapy alone,3.06,1
+2015,87,Female,I-II,1,0,Private,Community,Chemotherapy alone,21.27,0
+2017,85,Female,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,31.43,0
+2022,61,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,10.45,1
+2020,71,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,42.05,1
+2013,75,Male,III-IV,1,1,Private,Academic/Research,Chemotherapy alone,33.57,0
+2020,85,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,63.37,1
+2019,58,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,26.5,1
+2019,61,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,57.24,0
+2020,65,Male,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,6.26,1
+2022,77,Male,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,36.28,1
+2016,64,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,20.05,0
+2018,67,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,15.27,1
+2013,75,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,13.71,1
+2018,69,Female,III-IV,1,1,Private,Community,Chemoimmunotherapy,11.21,1
+2019,68,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,64.21,1
+2021,71,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,12.84,1
+2017,67,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,5.88,1
+2022,72,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,1.55,1
+2022,59,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,56.89,0
+2021,73,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,33.25,1
+2014,77,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,54.22,0
+2013,63,Female,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,35.35,1
+2017,57,Female,I-II,1,1,Private,Community,Chemoimmunotherapy,42.59,1
+2018,80,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,35.73,1
+2018,66,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,4.34,1
+2022,55,Female,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,10.69,1
+2021,69,Female,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,9.4,1
+2013,76,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,20.66,1
+2013,89,Female,I-II,0,0,Private,Community,Chemotherapy alone,14.06,0
+2014,76,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,62.03,1
+2019,52,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,79.55,0
+2016,74,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,22.84,0
+2019,63,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,37.42,1
+2020,90,Female,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,6.18,1
+2017,80,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,1.88,1
+2015,81,Female,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,49.32,0
+2021,66,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,42.76,1
+2015,90,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,32.92,0
+2014,69,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,33.58,1
+2019,62,Male,I-II,0,1,Medicare,Community,Chemotherapy alone,50.69,1
+2019,55,Female,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,4.52,1
+2013,90,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,17.63,1
+2015,90,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,36.54,1
+2017,63,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,11.92,1
+2018,76,Male,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,30.14,0
+2022,78,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,55.5,0
+2021,73,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,30.39,0
+2015,75,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,6.67,1
+2015,78,Female,III-IV,0,1,Private,Community,Chemotherapy alone,18.89,0
+2021,64,Female,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,2.99,1
+2021,55,Female,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,43.15,0
+2021,71,Female,III-IV,0,0,Private,Community,Chemotherapy alone,12.85,1
+2022,70,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,26.31,0
+2013,65,Female,I-II,1,1,Private,Academic/Research,Chemotherapy alone,3.89,1
+2019,79,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,46.62,0
+2021,53,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,16.85,0
+2014,76,Male,I-II,0,0,Private,Community,Chemotherapy alone,20.81,1
+2013,75,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,0.47,1
+2020,83,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,12.91,0
+2013,52,Male,I-II,1,0,Medicaid/Other,Academic/Research,Chemotherapy alone,17.75,1
+2019,68,Female,III-IV,1,1,Private,Community,Chemotherapy alone,5.03,1
+2021,74,Female,I-II,1,1,Private,Community,Chemoimmunotherapy,33.2,1
+2014,67,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,1.72,1
+2017,70,Male,I-II,1,1,Medicare,Academic/Research,Chemotherapy alone,2.85,1
+2019,62,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,30.6,0
+2017,67,Male,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,28.45,1
+2015,58,Female,I-II,0,1,Medicare,Community,Chemotherapy alone,5.15,1
+2021,59,Male,I-II,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,81.44,0
+2014,41,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,18.53,0
+2020,62,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,41.86,1
+2016,66,Female,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,49.75,0
+2021,78,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,26.88,1
+2019,88,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,29.56,1
+2017,62,Male,I-II,1,1,Medicare,Community,Chemoimmunotherapy,1.89,1
+2019,71,Female,I-II,1,1,Private,Academic/Research,Chemoimmunotherapy,17.25,0
+2014,78,Female,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,16.93,1
+2022,84,Male,I-II,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,24.17,1
+2013,59,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,31.94,0
+2018,87,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,61.49,0
+2017,67,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,26.74,0
+2015,48,Male,I-II,1,0,Private,Community,Chemotherapy alone,26.32,1
+2019,63,Female,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,2.58,1
+2017,75,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,20.52,1
+2016,82,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,54.67,1
+2019,72,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,19.67,0
+2013,60,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,52.15,0
+2021,86,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,23.29,1
+2022,53,Male,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,17.02,0
+2013,64,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,41.09,1
+2019,77,Female,III-IV,1,1,Private,Community,Chemoimmunotherapy,15.63,1
+2014,58,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,26.78,0
+2016,76,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,7.4,1
+2016,60,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,42.19,1
+2019,62,Female,I-II,1,0,Private,Community,Chemoimmunotherapy,7.09,1
+2018,71,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,24.59,1
+2015,51,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,45.6,0
+2021,72,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,22.43,1
+2013,56,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,16.83,0
+2013,71,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,67.03,0
+2018,67,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,20.78,1
+2019,70,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,20.51,0
+2022,53,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,30.15,0
+2021,45,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,50.52,0
+2014,84,Male,I-II,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,43.63,1
+2019,76,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,29.96,0
+2019,63,Female,III-IV,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,42.33,1
+2017,64,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,54.04,0
+2014,50,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,77.97,0
+2020,56,Male,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,17.27,1
+2015,90,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,13.73,1
+2020,81,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,21.28,0
+2013,77,Female,I-II,0,0,Private,Academic/Research,Chemotherapy alone,33.05,1
+2015,57,Female,III-IV,0,1,Medicaid/Other,Community,Chemoimmunotherapy,18.19,1
+2022,60,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,38.69,1
+2014,44,Male,III-IV,1,0,Private,Community,Chemoimmunotherapy,40.19,0
+2020,48,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,58.98,0
+2017,64,Female,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,48.92,1
+2018,59,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,29.64,1
+2018,71,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,16.48,1
+2022,85,Female,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,24.46,0
+2017,82,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,30.57,1
+2019,50,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,22.8,0
+2017,65,Female,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,71.17,0
+2022,53,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,38.43,0
+2019,79,Female,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,43.58,1
+2021,53,Male,III-IV,0,0,Private,Community,Chemotherapy alone,63.66,0
+2020,65,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,44.46,0
+2017,54,Female,I-II,0,0,Private,Academic/Research,Chemotherapy alone,25.47,0
+2022,63,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,7.27,1
+2014,64,Male,I-II,0,0,Private,Community,Chemotherapy alone,15.34,1
+2014,83,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,54.54,0
+2014,56,Male,III-IV,1,0,Medicaid/Other,Community,Chemotherapy alone,28.12,0
+2020,65,Male,III-IV,1,1,Private,Academic/Research,Chemotherapy alone,6.27,1
+2022,62,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,74.01,0
+2013,90,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,22.69,1
+2019,62,Male,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,41.26,1
+2017,77,Female,III-IV,1,0,Medicare,Community,Chemotherapy alone,47.04,0
+2022,78,Female,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,14.06,0
+2014,80,Male,I-II,1,0,Medicaid/Other,Community,Chemoimmunotherapy,11.4,1
+2016,47,Male,I-II,1,0,Private,Academic/Research,Chemoimmunotherapy,53.58,1
+2020,64,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,29.12,0
+2018,77,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,46.04,1
+2014,69,Male,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,10.07,1
+2019,63,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,7.61,1
+2014,50,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,0.31,1
+2017,67,Male,I-II,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,18.86,1
+2015,78,Male,III-IV,1,1,Private,Academic/Research,Chemoimmunotherapy,11.31,1
+2015,72,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,23.63,1
+2017,65,Male,III-IV,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,7.35,1
+2020,52,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,39.59,0
+2014,60,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,4.58,1
+2018,70,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,22.6,1
+2021,90,Female,III-IV,0,1,Private,Community,Chemotherapy alone,4.12,1
+2022,72,Female,I-II,1,0,Private,Academic/Research,Chemoimmunotherapy,2.23,1
+2021,63,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,46.39,0
+2019,67,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,15.63,0
+2022,73,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,35.37,1
+2022,75,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,15.11,1
+2015,62,Female,III-IV,0,1,Medicaid/Other,Community,Chemotherapy alone,18.29,1
+2021,83,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,15.77,0
+2020,70,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,14.92,0
+2015,62,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,68.65,1
+2020,64,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,75.53,0
+2022,88,Female,III-IV,1,0,Private,Community,Chemoimmunotherapy,19.11,1
+2015,74,Male,I-II,1,0,Medicare,Community,Chemotherapy alone,74.39,1
+2022,90,Male,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,15.42,1
+2014,81,Male,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,30.8,1
+2017,62,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,37.64,0
+2015,69,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,11.61,1
+2022,53,Male,I-II,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,21.69,1
+2020,74,Male,I-II,0,0,Private,Community,Chemotherapy alone,19.83,0
+2019,64,Male,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,71.24,0
+2021,58,Female,III-IV,1,1,Private,Academic/Research,Chemotherapy alone,5.53,1
+2019,45,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,23.97,0
+2013,69,Male,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,19.53,1
+2020,59,Male,III-IV,1,0,Private,Community,Chemoimmunotherapy,24.62,1
+2014,60,Male,I-II,0,1,Medicare,Academic/Research,Chemotherapy alone,23.82,0
+2015,62,Female,I-II,0,1,Private,Community,Chemoimmunotherapy,35.5,1
+2021,52,Female,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,45.35,0
+2013,68,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,40.05,0
+2016,63,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,7.66,1
+2022,70,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,41.06,0
+2013,64,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,61.24,1
+2017,90,Male,I-II,0,0,Private,Community,Chemotherapy alone,38.33,1
+2018,85,Male,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,25.32,0
+2018,70,Male,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,22.12,1
+2016,65,Female,III-IV,0,1,Medicaid/Other,Community,Chemotherapy alone,7.31,1
+2022,78,Male,I-II,0,1,Private,Community,Chemotherapy alone,14.39,1
+2013,73,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,11.53,1
+2014,71,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,80.25,0
+2013,67,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,19.81,0
+2014,57,Male,I-II,0,1,Medicare,Community,Chemotherapy alone,45.05,1
+2020,69,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,29.26,0
+2017,49,Male,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,62.31,0
+2013,39,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,16.41,0
+2018,61,Female,III-IV,0,1,Medicare,Community,Chemotherapy alone,0.81,1
+2022,89,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,5.27,1
+2016,52,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,21.86,0
+2018,66,Male,III-IV,1,1,Private,Community,Chemoimmunotherapy,10.93,1
+2016,71,Male,I-II,1,1,Medicare,Community,Chemotherapy alone,5.04,1
+2022,55,Female,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,42.05,1
+2017,52,Male,I-II,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,6.24,1
+2018,80,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,37.33,1
+2014,50,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,43.19,0
+2017,75,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,47.36,0
+2013,79,Female,I-II,1,0,Medicare,Community,Chemotherapy alone,36.59,1
+2016,62,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,34.16,1
+2018,75,Male,I-II,1,0,Medicare,Community,Chemotherapy alone,22.91,1
+2019,72,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,6.41,1
+2017,68,Female,III-IV,1,0,Private,Community,Chemoimmunotherapy,3.78,1
+2016,64,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,39.88,0
+2018,62,Male,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,3.84,1
+2022,68,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,11.48,1
+2022,77,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,10.36,1
+2019,69,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,2.95,1
+2016,63,Male,I-II,1,1,Private,Academic/Research,Chemotherapy alone,7.8,1
+2016,68,Male,III-IV,1,0,Medicaid/Other,Community,Chemotherapy alone,7.74,1
+2017,60,Female,III-IV,1,1,Private,Academic/Research,Chemoimmunotherapy,6.29,1
+2020,60,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,38.45,1
+2022,76,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,64.78,0
+2013,76,Female,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,27.77,0
+2014,56,Female,III-IV,0,0,Medicaid/Other,Community,Chemotherapy alone,3.85,1
+2015,77,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,15.73,0
+2017,82,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,26.41,1
+2015,67,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,33.15,1
+2019,60,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,24.87,0
+2017,68,Female,III-IV,0,0,Private,Community,Chemotherapy alone,2.29,1
+2018,66,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,58.74,1
+2015,61,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,65.54,1
+2014,47,Male,I-II,0,0,Private,Academic/Research,Chemotherapy alone,16.63,1
+2015,58,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,10.36,1
+2016,67,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,17.78,1
+2015,88,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,35.32,0
+2018,67,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,25.31,1
+2021,87,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,44.03,1
+2020,63,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,41.22,1
+2013,80,Female,I-II,1,0,Medicare,Community,Chemotherapy alone,46.04,0
+2015,88,Female,I-II,0,0,Private,Community,Chemotherapy alone,56.48,0
+2021,63,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,37.72,0
+2020,56,Male,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,73.7,0
+2019,67,Male,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,14.59,1
+2018,56,Male,III-IV,1,0,Private,Community,Chemoimmunotherapy,61.71,0
+2020,66,Female,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,46.1,1
+2014,64,Male,I-II,1,1,Medicare,Community,Chemotherapy alone,33.62,0
+2020,85,Female,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,12.21,1
+2018,67,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,22.64,1
+2015,64,Female,I-II,1,0,Private,Community,Chemoimmunotherapy,8.75,1
+2019,90,Male,I-II,0,1,Private,Community,Chemotherapy alone,5.19,1
+2013,82,Male,III-IV,0,1,Medicare,Community,Chemotherapy alone,11.08,1
+2019,60,Female,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,15.87,0
+2020,79,Female,I-II,1,0,Medicaid/Other,Community,Chemoimmunotherapy,49.84,0
+2016,68,Female,III-IV,1,1,Private,Community,Chemoimmunotherapy,23.29,1
+2018,90,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,8.36,1
+2018,84,Male,I-II,0,1,Medicare,Community,Chemotherapy alone,56.77,1
+2022,58,Female,III-IV,1,1,Private,Community,Chemoimmunotherapy,64.62,0
+2021,59,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,18.33,1
+2021,89,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,26.99,1
+2019,64,Male,III-IV,1,0,Private,Academic/Research,Chemotherapy alone,13.4,1
+2019,45,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,45.36,0
+2021,58,Male,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,9.1,1
+2013,53,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,58.88,0
+2020,61,Female,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,6.49,1
+2015,51,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,76.79,0
+2018,66,Female,I-II,0,1,Private,Community,Chemoimmunotherapy,56.32,1
+2019,62,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,17.66,0
+2018,87,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,18.56,1
+2022,66,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,31.91,0
+2018,78,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,17.71,1
+2015,54,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,33.25,0
+2016,49,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,28.37,0
+2020,53,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,33.21,0
+2019,61,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,39.2,0
+2022,52,Male,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,48.13,1
+2016,63,Male,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,13.77,1
+2017,63,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,61.62,0
+2015,65,Female,I-II,1,0,Private,Community,Chemoimmunotherapy,35.61,0
+2015,70,Female,III-IV,1,0,Medicaid/Other,Academic/Research,Chemotherapy alone,35.42,1
+2016,63,Male,III-IV,1,0,Medicare,Community,Chemotherapy alone,16.15,0
+2015,69,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,50.53,1
+2014,90,Male,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,9.48,1
+2013,81,Female,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,60.47,1
+2014,81,Male,III-IV,1,0,Medicaid/Other,Academic/Research,Chemotherapy alone,14.97,1
+2020,66,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,47.96,1
+2016,53,Male,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,36.49,0
+2014,71,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,25.47,1
+2014,61,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,54.26,0
+2014,71,Female,I-II,0,1,Medicare,Community,Chemotherapy alone,36.17,1
+2022,77,Male,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,9.06,1
+2017,72,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,44.03,1
+2016,68,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,46.53,0
+2018,90,Male,I-II,0,1,Medicare,Academic/Research,Chemotherapy alone,29.72,0
+2016,66,Male,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,3.19,1
+2015,78,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,9.59,1
+2015,70,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,3.7,1
+2013,59,Female,I-II,0,1,Medicare,Academic/Research,Chemotherapy alone,20.48,1
+2014,70,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,38.48,0
+2021,71,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,18.45,1
+2015,70,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,79.24,0
+2020,59,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,41.86,0
+2019,79,Male,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,15.67,1
+2017,64,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,20.98,0
+2013,77,Male,I-II,0,0,Medicaid/Other,Community,Chemotherapy alone,47.18,1
+2013,59,Male,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,1.03,1
+2019,57,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,3.0,1
+2019,80,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,16.68,1
+2014,77,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,2.35,1
+2013,83,Female,III-IV,1,1,Medicare,Community,Chemotherapy alone,6.72,1
+2013,82,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,1.16,1
+2016,81,Male,III-IV,1,0,Private,Community,Chemotherapy alone,1.97,1
+2021,62,Female,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,13.88,1
+2017,62,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,26.77,1
+2014,64,Female,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,22.43,0
+2021,71,Female,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,14.74,1
+2020,61,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,68.23,0
+2022,71,Male,I-II,0,1,Medicaid/Other,Community,Chemotherapy alone,22.21,1
+2020,77,Female,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,23.46,1
+2014,74,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,31.83,0
+2016,57,Male,III-IV,1,0,Private,Community,Chemotherapy alone,12.25,0
+2019,62,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,80.65,0
+2019,48,Female,III-IV,1,0,Private,Community,Chemoimmunotherapy,56.1,0
+2016,90,Male,III-IV,1,1,Medicare,Community,Chemotherapy alone,37.91,0
+2013,78,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,19.89,0
+2021,72,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,35.85,0
+2021,71,Female,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,7.16,1
+2021,62,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,52.46,0
+2015,69,Male,III-IV,0,1,Private,Community,Chemotherapy alone,38.59,1
+2020,89,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,51.57,1
+2016,85,Male,I-II,1,1,Medicare,Community,Chemoimmunotherapy,54.56,1
+2021,38,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,5.29,1
+2020,76,Male,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,3.08,1
+2017,71,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,55.4,0
+2018,73,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,58.07,0
+2020,64,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,18.23,0
+2014,90,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,33.64,0
+2013,62,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,20.75,0
+2014,58,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,16.77,1
+2015,80,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,30.61,0
+2021,73,Female,I-II,1,1,Medicaid/Other,Community,Chemoimmunotherapy,20.01,0
+2015,71,Female,I-II,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,0.22,1
+2021,66,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,24.7,0
+2013,74,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,47.93,1
+2015,66,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,42.98,0
+2022,53,Female,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,48.54,0
+2015,73,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,38.29,0
+2020,72,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,13.41,0
+2016,65,Male,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,48.74,1
+2013,58,Male,III-IV,0,1,Medicaid/Other,Academic/Research,Chemotherapy alone,14.9,1
+2013,52,Male,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,80.8,0
+2021,73,Male,III-IV,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,8.33,1
+2021,72,Female,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,47.82,0
+2016,75,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,82.64,0
+2014,71,Female,I-II,1,0,Private,Academic/Research,Chemotherapy alone,5.21,1
+2017,67,Male,I-II,0,1,Private,Community,Chemotherapy alone,45.86,0
+2016,76,Female,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,23.38,0
+2019,65,Male,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,28.18,1
+2020,74,Female,I-II,1,1,Medicaid/Other,Community,Chemoimmunotherapy,29.71,1
+2014,84,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,0.13,1
+2016,73,Male,I-II,1,0,Medicaid/Other,Academic/Research,Chemotherapy alone,40.32,1
+2015,56,Female,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,22.63,1
+2022,68,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,32.37,0
+2014,63,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,54.48,1
+2013,75,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,0.05,1
+2019,85,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,60.6,0
+2016,74,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,50.39,1
+2015,90,Male,I-II,0,0,Medicaid/Other,Community,Chemotherapy alone,83.77,0
+2015,59,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,59.21,1
+2013,60,Female,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,29.43,0
+2013,75,Male,I-II,1,1,Private,Community,Chemotherapy alone,15.37,1
+2020,74,Female,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,0.1,1
+2014,62,Female,I-II,0,1,Medicare,Academic/Research,Chemotherapy alone,7.37,1
+2015,89,Female,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,3.84,1
+2020,81,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,62.47,0
+2016,75,Male,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,13.3,0
+2022,70,Male,III-IV,0,0,Private,Community,Chemotherapy alone,24.75,1
+2017,62,Male,III-IV,1,1,Private,Academic/Research,Chemoimmunotherapy,59.42,0
+2022,66,Male,III-IV,0,1,Medicaid/Other,Community,Chemoimmunotherapy,72.95,0
+2015,88,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,11.98,1
+2021,71,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,14.24,1
+2016,81,Female,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,7.62,1
+2014,66,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,15.06,1
+2019,75,Female,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,25.44,0
+2019,42,Female,III-IV,1,1,Medicaid/Other,Community,Chemotherapy alone,0.66,1
+2015,69,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,16.97,1
+2018,72,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,15.33,1
+2018,82,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,42.64,1
+2016,64,Female,I-II,0,1,Private,Community,Chemotherapy alone,35.84,0
+2020,55,Male,III-IV,1,1,Medicare,Community,Chemotherapy alone,26.33,0
+2015,64,Female,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,6.45,1
+2016,46,Male,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,12.09,1
+2019,53,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,69.27,0
+2022,68,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,12.82,0
+2013,75,Male,III-IV,0,1,Medicaid/Other,Community,Chemotherapy alone,5.73,1
+2015,75,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,38.29,0
+2021,62,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,46.94,0
+2013,64,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,53.51,1
+2015,90,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,12.02,1
+2020,75,Female,III-IV,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,19.65,1
+2016,86,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,14.41,1
+2022,65,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,49.58,0
+2021,71,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,22.27,1
+2021,69,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,15.67,1
+2014,69,Male,I-II,0,0,Medicaid/Other,Community,Chemotherapy alone,37.78,0
+2020,64,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,9.83,1
+2016,74,Male,III-IV,1,0,Private,Community,Chemotherapy alone,5.25,1
+2016,59,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,65.64,0
+2018,72,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,57.73,0
+2013,52,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,28.76,1
+2017,70,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,50.55,1
+2018,50,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,1.48,1
+2020,61,Male,I-II,1,1,Medicaid/Other,Community,Chemoimmunotherapy,6.05,1
+2020,74,Female,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,35.97,1
+2016,66,Female,III-IV,1,0,Private,Community,Chemoimmunotherapy,31.31,1
+2019,78,Male,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,55.66,1
+2016,64,Female,III-IV,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,38.03,0
+2020,75,Female,III-IV,1,1,Private,Community,Chemotherapy alone,18.8,1
+2020,88,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,37.52,1
+2018,57,Female,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,38.19,1
+2022,59,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,50.29,0
+2014,62,Female,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,22.69,1
+2019,82,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,13.92,1
+2022,67,Male,I-II,1,1,Medicare,Community,Chemoimmunotherapy,37.21,1
+2020,53,Female,I-II,0,1,Private,Community,Chemoimmunotherapy,17.51,0
+2016,69,Female,III-IV,1,0,Private,Academic/Research,Chemotherapy alone,13.36,1
+2019,70,Male,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,55.54,0
+2017,66,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,28.68,1
+2017,70,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,48.72,1
+2022,77,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,4.52,1
+2014,70,Female,I-II,1,0,Medicaid/Other,Community,Chemotherapy alone,0.78,1
+2013,79,Male,III-IV,1,0,Medicaid/Other,Academic/Research,Chemotherapy alone,1.15,1
+2018,58,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,30.85,0
+2015,62,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,28.57,0
+2021,80,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,13.65,0
+2021,81,Female,I-II,0,0,Private,Community,Chemotherapy alone,27.0,1
+2020,69,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,2.76,1
+2013,63,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,25.25,0
+2021,74,Male,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,11.31,1
+2019,74,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,6.24,1
+2017,76,Male,III-IV,0,1,Medicaid/Other,Community,Chemoimmunotherapy,16.89,0
+2019,67,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,44.69,0
+2022,58,Male,III-IV,1,1,Private,Community,Chemoimmunotherapy,68.53,0
+2022,68,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,21.73,1
+2017,52,Male,I-II,1,0,Medicare,Community,Chemotherapy alone,11.41,1
+2015,71,Female,III-IV,0,1,Private,Academic/Research,Chemotherapy alone,6.72,1
+2016,57,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,31.68,0
+2020,60,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,1.96,1
+2018,71,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,18.75,1
+2015,50,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,8.25,1
+2021,86,Male,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,50.02,0
+2020,73,Male,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,32.96,0
+2020,72,Male,I-II,1,0,Medicare,Academic/Research,Chemotherapy alone,27.66,1
+2015,69,Female,III-IV,1,1,Medicaid/Other,Community,Chemotherapy alone,30.48,1
+2020,60,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,23.5,1
+2021,86,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,12.2,1
+2016,52,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,80.17,1
+2018,64,Female,I-II,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,13.09,1
+2021,53,Female,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,27.86,1
+2021,81,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,21.5,1
+2015,90,Male,III-IV,1,1,Private,Academic/Research,Chemotherapy alone,16.88,1
+2019,54,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,41.78,0
+2022,70,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,25.66,0
+2016,65,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,30.32,1
+2013,90,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,29.53,1
+2015,83,Male,I-II,0,1,Medicare,Academic/Research,Chemotherapy alone,47.36,1
+2019,57,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,0.55,1
+2014,56,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,23.33,0
+2018,80,Male,I-II,1,0,Medicaid/Other,Community,Chemotherapy alone,29.33,1
+2019,61,Female,III-IV,1,1,Private,Community,Chemoimmunotherapy,11.95,1
+2022,80,Male,III-IV,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,16.24,0
+2020,62,Female,III-IV,1,1,Medicare,Community,Chemotherapy alone,22.46,0
+2022,83,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,14.4,1
+2019,60,Female,I-II,0,1,Private,Community,Chemoimmunotherapy,18.92,1
+2015,74,Male,III-IV,1,1,Private,Academic/Research,Chemotherapy alone,37.18,1
+2022,62,Female,I-II,1,0,Private,Community,Chemoimmunotherapy,81.56,0
+2022,73,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,5.46,1
+2014,40,Female,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,33.24,0
+2015,75,Male,I-II,0,0,Private,Community,Chemotherapy alone,54.4,1
+2018,66,Female,I-II,1,1,Private,Community,Chemoimmunotherapy,0.93,1
+2019,57,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,20.99,1
+2014,80,Male,III-IV,1,0,Medicare,Community,Chemotherapy alone,10.04,1
+2021,87,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,41.39,1
+2016,59,Male,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,43.33,0
+2014,60,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,13.27,0
+2022,62,Female,III-IV,1,1,Private,Community,Chemoimmunotherapy,25.85,1
+2020,87,Male,III-IV,1,1,Private,Community,Chemoimmunotherapy,22.4,0
+2017,90,Female,I-II,1,1,Medicaid/Other,Community,Chemoimmunotherapy,46.02,1
+2015,67,Female,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,59.11,0
+2019,69,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,31.22,0
+2013,50,Female,III-IV,0,0,Medicaid/Other,Community,Chemotherapy alone,20.86,0
+2017,82,Female,III-IV,1,0,Medicare,Community,Chemotherapy alone,3.46,1
+2021,57,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,59.29,1
+2018,50,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,26.82,0
+2014,74,Female,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,23.59,1
+2015,63,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,35.88,0
+2017,86,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,23.48,1
+2016,79,Male,III-IV,0,1,Private,Community,Chemotherapy alone,34.4,1
+2019,65,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,18.77,1
+2014,59,Male,I-II,0,0,Private,Community,Chemotherapy alone,83.36,0
+2013,58,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,72.6,1
+2017,74,Female,I-II,0,0,Private,Academic/Research,Chemotherapy alone,15.07,1
+2018,75,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,0.68,1
+2019,76,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,12.71,0
+2016,81,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,43.85,1
+2017,66,Male,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,68.8,0
+2015,62,Male,III-IV,1,1,Private,Community,Chemoimmunotherapy,4.99,1
+2020,57,Female,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,24.23,0
+2021,80,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,6.42,1
+2013,55,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,12.66,1
+2017,75,Female,III-IV,1,1,Private,Community,Chemotherapy alone,24.22,0
+2020,45,Male,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,49.9,0
+2019,63,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,22.69,1
+2022,62,Female,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,71.38,0
+2016,74,Male,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,0.57,1
+2016,75,Female,III-IV,1,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,43.97,0
+2016,45,Female,I-II,1,0,Medicare,Community,Chemoimmunotherapy,15.33,1
+2021,68,Female,III-IV,0,1,Private,Academic/Research,Chemotherapy alone,3.7,1
+2017,61,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,28.56,1
+2022,71,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,28.61,0
+2013,60,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,31.1,1
+2020,63,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,78.15,0
+2017,63,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,10.0,1
+2016,59,Female,I-II,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,45.13,0
+2021,63,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,40.7,1
+2018,69,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,25.09,0
+2017,74,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,70.72,0
+2018,70,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,23.25,0
+2018,82,Male,I-II,0,1,Private,Academic/Research,Chemotherapy alone,45.92,1
+2019,60,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,23.24,0
+2016,66,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,73.5,0
+2014,77,Male,I-II,1,0,Medicare,Academic/Research,Chemotherapy alone,28.33,1
+2019,80,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,14.67,1
+2020,72,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,12.51,1
+2016,76,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,2.3,1
+2016,46,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,69.24,0
+2018,66,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,33.49,1
+2019,58,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,24.54,1
+2021,74,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,21.6,1
+2021,73,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,1.71,1
+2017,62,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,57.88,0
+2018,69,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,49.42,1
+2021,90,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,15.61,1
+2017,75,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,27.25,0
+2020,56,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,83.06,0
+2014,72,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,38.19,1
+2015,69,Male,I-II,1,1,Private,Academic/Research,Chemotherapy alone,45.81,1
+2021,65,Male,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,10.61,1
+2022,63,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,8.69,1
+2017,74,Male,III-IV,0,1,Private,Academic/Research,Chemotherapy alone,33.98,1
+2018,81,Male,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,6.3,1
+2019,63,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,34.83,1
+2022,78,Male,I-II,1,0,Private,Community,Chemoimmunotherapy,5.1,1
+2013,65,Female,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,56.66,1
+2014,60,Female,I-II,1,1,Private,Academic/Research,Chemotherapy alone,27.89,1
+2016,70,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,8.36,1
+2015,69,Female,I-II,0,1,Medicare,Academic/Research,Chemotherapy alone,36.85,0
+2013,70,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,26.07,1
+2019,53,Male,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,21.6,1
+2014,74,Female,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,21.81,1
+2020,57,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,10.9,1
+2013,69,Male,III-IV,0,0,Private,Community,Chemotherapy alone,58.81,0
+2020,50,Female,III-IV,1,0,Private,Community,Chemoimmunotherapy,28.46,0
+2022,89,Male,I-II,1,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,3.07,1
+2022,69,Female,III-IV,1,1,Private,Academic/Research,Chemoimmunotherapy,4.1,1
+2018,66,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,19.24,1
+2019,62,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,52.9,1
+2015,73,Female,III-IV,0,1,Medicare,Community,Chemotherapy alone,2.2,1
+2021,84,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,2.18,1
+2019,79,Female,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,24.26,0
+2021,58,Male,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,45.8,1
+2021,69,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,28.59,1
+2018,62,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,13.14,1
+2021,55,Male,I-II,0,1,Medicare,Community,Chemotherapy alone,24.87,1
+2017,81,Female,III-IV,1,1,Private,Community,Chemotherapy alone,24.79,1
+2014,71,Male,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,1.58,1
+2022,61,Male,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,60.64,1
+2013,63,Female,I-II,1,0,Medicare,Community,Chemotherapy alone,71.8,1
+2021,43,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,56.98,1
+2014,70,Female,I-II,1,0,Private,Academic/Research,Chemotherapy alone,18.74,1
+2016,79,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,23.05,1
+2019,57,Male,III-IV,1,0,Private,Community,Chemoimmunotherapy,16.45,0
+2014,74,Male,I-II,0,1,Private,Community,Chemotherapy alone,22.39,1
+2019,74,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,6.44,1
+2022,54,Male,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,33.16,0
+2016,79,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,35.0,0
+2015,62,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,13.27,1
+2020,79,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,19.07,0
+2019,67,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,55.27,1
+2013,83,Male,III-IV,1,0,Private,Academic/Research,Chemotherapy alone,0.43,1
+2015,64,Male,I-II,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,73.68,0
+2016,72,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,25.16,0
+2015,67,Male,III-IV,0,1,Private,Community,Chemotherapy alone,36.47,1
+2014,60,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,83.54,0
+2021,70,Female,III-IV,1,1,Private,Community,Chemotherapy alone,17.13,1
+2022,74,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,68.26,1
+2020,68,Female,I-II,1,0,Medicare,Community,Chemoimmunotherapy,12.19,1
+2019,59,Female,III-IV,0,1,Medicaid/Other,Community,Chemoimmunotherapy,48.06,1
+2013,66,Female,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,19.87,0
+2014,61,Male,I-II,0,0,Private,Community,Chemotherapy alone,7.44,1
+2022,74,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,37.13,0
+2015,80,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,26.92,0
+2018,67,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,53.21,0
+2013,54,Female,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,14.59,1
+2017,50,Female,III-IV,0,0,Private,Community,Chemotherapy alone,18.72,1
+2016,50,Male,III-IV,1,0,Private,Community,Chemoimmunotherapy,14.44,0
+2015,72,Female,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,38.78,0
+2017,68,Female,I-II,1,0,Medicare,Community,Chemoimmunotherapy,3.37,1
+2015,67,Female,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,22.99,1
+2015,67,Female,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,9.99,1
+2015,65,Female,III-IV,1,1,Private,Academic/Research,Chemotherapy alone,5.67,1
+2017,84,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,13.13,1
+2015,90,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,0.88,1
+2016,50,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,15.93,0
+2020,65,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,19.36,0
+2013,72,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,21.18,1
+2020,49,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,33.44,0
+2021,65,Female,III-IV,0,1,Medicare,Community,Chemotherapy alone,24.42,1
+2022,74,Male,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,3.84,1
+2019,90,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,14.59,1
+2018,85,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,21.76,1
+2020,64,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,57.43,0
+2017,70,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,24.47,0
+2014,83,Female,I-II,1,0,Private,Community,Chemotherapy alone,6.56,1
+2017,81,Female,III-IV,1,0,Private,Community,Chemoimmunotherapy,24.2,1
+2020,73,Male,III-IV,1,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,14.87,1
+2020,55,Female,I-II,1,0,Private,Community,Chemoimmunotherapy,65.64,0
+2017,58,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,43.53,1
+2020,90,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,38.82,1
+2019,54,Male,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,58.13,0
+2020,72,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,20.34,1
+2014,50,Male,III-IV,1,0,Private,Community,Chemoimmunotherapy,15.82,0
+2017,58,Male,I-II,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,1.72,1
+2017,62,Female,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,63.68,0
+2022,58,Male,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,42.39,0
+2018,71,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,33.5,1
+2018,70,Male,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,14.45,0
+2014,56,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,63.57,1
+2021,68,Male,III-IV,1,1,Medicaid/Other,Community,Chemoimmunotherapy,11.27,1
+2018,70,Female,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,28.14,0
+2021,75,Female,I-II,0,1,Private,Community,Chemoimmunotherapy,33.75,0
+2018,68,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,29.47,1
+2014,72,Male,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,38.31,1
+2018,64,Female,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,51.83,0
+2015,77,Male,III-IV,0,1,Medicare,Community,Chemotherapy alone,10.51,1
+2017,60,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,23.39,1
+2015,60,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,28.8,0
+2020,71,Female,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,6.24,1
+2015,66,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,14.0,0
+2014,85,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,3.26,1
+2020,60,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,4.92,1
+2018,75,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,55.94,0
+2014,72,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,26.27,0
+2021,57,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,34.53,0
+2016,69,Male,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,28.9,0
+2019,63,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,28.51,0
+2017,72,Female,III-IV,0,1,Medicare,Community,Chemotherapy alone,6.51,1
+2016,78,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,23.09,0
+2020,67,Female,III-IV,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,22.32,1
+2020,81,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,24.04,1
+2017,68,Male,I-II,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,3.31,1
+2013,71,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,5.65,1
+2016,66,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,34.66,1
+2018,72,Female,III-IV,0,0,Private,Community,Chemotherapy alone,16.58,1
+2020,67,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,46.35,0
+2021,78,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,38.37,1
+2017,73,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,1.83,1
+2013,90,Male,I-II,0,1,Private,Academic/Research,Chemotherapy alone,20.83,0
+2019,75,Male,I-II,1,1,Private,Community,Chemotherapy alone,18.82,1
+2016,59,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,50.72,1
+2013,50,Male,III-IV,1,1,Medicaid/Other,Community,Chemoimmunotherapy,20.3,0
+2017,55,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,8.39,1
+2021,83,Male,I-II,0,1,Private,Academic/Research,Chemotherapy alone,36.75,0
+2021,71,Female,III-IV,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,8.37,1
+2016,55,Female,I-II,0,1,Medicare,Community,Chemotherapy alone,49.34,0
+2014,33,Female,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,32.89,1
+2020,64,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,7.07,1
+2018,85,Female,I-II,1,0,Private,Community,Chemotherapy alone,15.32,1
+2022,66,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,64.85,0
+2018,71,Male,III-IV,0,0,Private,Community,Chemotherapy alone,4.52,1
+2019,71,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,1.32,1
+2015,49,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,27.99,0
+2014,60,Female,III-IV,1,1,Medicare,Community,Chemotherapy alone,21.81,1
+2014,65,Male,I-II,0,0,Medicare,Academic/Research,Chemotherapy alone,17.6,1
+2015,65,Male,I-II,0,0,Private,Community,Chemotherapy alone,21.83,0
+2014,53,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,10.38,1
+2016,74,Female,III-IV,0,0,Private,Community,Chemotherapy alone,7.5,1
+2017,45,Female,I-II,1,1,Medicare,Community,Chemoimmunotherapy,53.04,0
+2015,64,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,15.2,0
+2015,82,Male,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,6.21,1
+2017,49,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,2.19,1
+2013,76,Female,I-II,0,0,Private,Academic/Research,Chemotherapy alone,30.37,1
+2019,47,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,51.36,1
+2019,82,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,17.39,1
+2016,78,Male,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,22.68,1
+2019,74,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,10.62,1
+2018,64,Female,III-IV,1,1,Medicaid/Other,Community,Chemoimmunotherapy,46.75,1
+2013,80,Female,III-IV,0,1,Private,Academic/Research,Chemotherapy alone,33.06,0
+2022,65,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,20.97,0
+2017,61,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,2.81,1
+2020,58,Female,I-II,0,0,Medicare,Community,Chemoimmunotherapy,32.4,1
+2013,61,Male,III-IV,0,0,Private,Community,Chemotherapy alone,12.14,0
+2015,50,Female,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,25.74,0
+2017,60,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,52.14,0
+2020,54,Male,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,70.44,0
+2017,68,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,51.71,0
+2019,64,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,37.84,1
+2016,61,Male,I-II,0,0,Medicaid/Other,Community,Chemotherapy alone,17.26,0
+2016,63,Male,I-II,0,1,Private,Academic/Research,Chemotherapy alone,45.38,1
+2018,51,Female,I-II,1,1,Medicare,Academic/Research,Chemotherapy alone,14.42,0
+2021,68,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,0.57,1
+2015,75,Male,I-II,1,0,Medicaid/Other,Community,Chemotherapy alone,24.04,1
+2022,66,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,46.79,1
+2016,43,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,19.27,0
+2014,60,Male,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,1.39,1
+2018,69,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,43.02,1
+2022,72,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,20.78,0
+2017,80,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,14.62,1
+2014,71,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,13.77,1
+2016,52,Male,III-IV,1,1,Private,Community,Chemoimmunotherapy,5.76,1
+2022,69,Male,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,31.21,1
+2021,84,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,21.95,1
+2015,64,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,28.69,0
+2019,72,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,60.83,0
+2020,66,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,44.76,1
+2020,60,Male,I-II,1,0,Private,Community,Chemotherapy alone,23.43,0
+2021,75,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,12.12,0
+2019,80,Male,I-II,1,0,Private,Academic/Research,Chemotherapy alone,37.01,0
+2022,55,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,23.24,0
+2021,78,Male,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,55.26,0
+2015,61,Male,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,32.8,1
+2016,79,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,15.92,1
+2014,56,Male,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,8.84,1
+2015,89,Male,III-IV,1,1,Medicare,Academic/Research,Chemotherapy alone,0.23,1
+2016,65,Female,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,53.87,0
+2022,63,Male,I-II,1,1,Private,Community,Chemoimmunotherapy,13.53,1
+2015,69,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,6.25,1
+2021,63,Male,III-IV,0,1,Private,Community,Chemoimmunotherapy,16.43,0
+2017,63,Female,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,27.07,0
+2014,57,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,40.46,0
+2015,56,Male,III-IV,1,1,Private,Academic/Research,Chemotherapy alone,19.94,1
+2016,64,Male,III-IV,1,1,Private,Academic/Research,Chemoimmunotherapy,23.35,1
+2017,44,Female,III-IV,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,10.75,1
+2020,59,Male,III-IV,1,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,28.41,0
+2018,78,Female,I-II,1,0,Medicare,Community,Chemoimmunotherapy,18.54,1
+2022,46,Female,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,13.66,0
+2021,69,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,53.49,0
+2015,72,Female,III-IV,1,1,Private,Community,Chemoimmunotherapy,0.84,1
+2018,66,Male,I-II,0,0,Private,Academic/Research,Chemotherapy alone,19.14,1
+2020,75,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,21.09,1
+2016,52,Female,I-II,0,0,Private,Community,Chemotherapy alone,12.75,0
+2016,59,Male,III-IV,1,0,Private,Community,Chemoimmunotherapy,12.94,1
+2016,84,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,9.92,1
+2014,81,Male,I-II,0,0,Private,Community,Chemotherapy alone,3.37,1
+2015,70,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,39.06,0
+2017,75,Male,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,38.88,0
+2018,76,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,10.76,1
+2017,56,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,60.55,0
+2019,72,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,6.89,1
+2014,61,Female,III-IV,0,1,Medicare,Community,Chemotherapy alone,33.41,0
+2013,89,Female,III-IV,0,0,Private,Community,Chemotherapy alone,11.76,1
+2021,58,Male,I-II,1,0,Medicare,Community,Chemoimmunotherapy,9.88,1
+2016,59,Female,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,9.34,1
+2013,73,Male,III-IV,0,1,Private,Academic/Research,Chemotherapy alone,0.19,1
+2015,62,Female,I-II,0,0,Medicaid/Other,Community,Chemotherapy alone,41.22,1
+2018,54,Male,I-II,0,1,Medicare,Community,Chemoimmunotherapy,80.35,0
+2019,63,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,15.21,0
+2016,57,Male,I-II,1,1,Private,Academic/Research,Chemoimmunotherapy,21.11,1
+2021,84,Female,I-II,1,0,Medicare,Academic/Research,Chemoimmunotherapy,6.14,1
+2022,50,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,23.68,0
+2015,73,Female,III-IV,0,1,Private,Academic/Research,Chemotherapy alone,28.14,1
+2014,63,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,16.85,0
+2017,51,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,2.32,1
+2022,54,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,15.58,0
+2022,77,Female,I-II,0,0,Private,Academic/Research,Chemotherapy alone,36.92,1
+2016,81,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,41.8,1
+2017,73,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,21.04,1
+2016,67,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,36.82,1
+2013,63,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,69.41,1
+2013,61,Male,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,67.16,0
+2014,69,Male,III-IV,0,0,Medicaid/Other,Community,Chemoimmunotherapy,0.45,1
+2022,69,Male,I-II,1,0,Private,Academic/Research,Chemoimmunotherapy,48.45,1
+2019,56,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,23.34,1
+2013,86,Female,I-II,0,0,Medicaid/Other,Community,Chemotherapy alone,19.47,1
+2018,66,Male,III-IV,0,0,Private,Academic/Research,Chemotherapy alone,78.31,0
+2015,72,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,28.22,1
+2013,78,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,11.19,1
+2013,73,Female,I-II,0,0,Private,Community,Chemotherapy alone,9.97,1
+2019,60,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,45.28,1
+2013,50,Male,I-II,0,1,Private,Academic/Research,Chemotherapy alone,69.14,1
+2017,74,Female,I-II,1,0,Medicaid/Other,Community,Chemoimmunotherapy,13.6,1
+2013,71,Male,III-IV,0,1,Medicare,Community,Chemotherapy alone,7.26,1
+2013,68,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,9.81,1
+2019,79,Male,III-IV,1,1,Medicare,Academic/Research,Chemoimmunotherapy,5.25,1
+2019,68,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,2.34,1
+2017,69,Female,I-II,0,0,Private,Academic/Research,Chemotherapy alone,32.92,0
+2013,84,Male,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,11.01,1
+2013,74,Female,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,19.44,1
+2017,78,Female,III-IV,0,1,Private,Academic/Research,Chemotherapy alone,11.02,1
+2014,69,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,62.16,0
+2022,73,Female,I-II,1,0,Medicare,Community,Chemoimmunotherapy,49.06,0
+2018,70,Female,III-IV,0,0,Private,Community,Chemotherapy alone,1.26,1
+2016,75,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,44.82,0
+2016,63,Male,I-II,0,1,Private,Community,Chemotherapy alone,41.73,0
+2013,62,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,5.67,1
+2014,72,Female,I-II,1,1,Medicaid/Other,Academic/Research,Chemotherapy alone,7.19,1
+2017,73,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,5.11,1
+2021,73,Male,I-II,1,1,Medicare,Community,Chemoimmunotherapy,45.85,1
+2016,66,Female,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,15.24,1
+2021,90,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,2.0,1
+2018,63,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,52.62,0
+2022,85,Female,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,56.04,0
+2018,80,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,13.78,1
+2020,72,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,7.89,1
+2016,88,Female,I-II,0,1,Medicare,Community,Chemotherapy alone,19.14,1
+2018,61,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,3.97,1
+2016,62,Male,III-IV,1,0,Medicaid/Other,Community,Chemotherapy alone,39.27,0
+2015,61,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,24.63,0
+2020,61,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,14.77,0
+2022,65,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,0.79,1
+2022,69,Female,I-II,0,0,Private,Academic/Research,Chemotherapy alone,52.08,0
+2022,67,Male,I-II,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,37.6,1
+2016,84,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,14.11,0
+2017,65,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,66.41,0
+2013,66,Male,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,29.09,0
+2014,72,Male,I-II,0,0,Private,Community,Chemoimmunotherapy,7.83,1
+2019,66,Male,III-IV,1,1,Medicaid/Other,Community,Chemotherapy alone,16.25,0
+2019,73,Female,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,18.78,1
+2013,53,Female,I-II,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,34.13,1
+2020,66,Female,III-IV,1,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,26.79,1
+2018,84,Male,I-II,0,1,Medicaid/Other,Community,Chemoimmunotherapy,14.07,1
+2017,64,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,12.92,1
+2017,73,Female,III-IV,1,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,17.48,0
+2018,74,Female,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,63.71,0
+2018,76,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,63.41,0
+2015,86,Female,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,54.43,0
+2017,57,Female,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,39.66,0
+2021,48,Male,III-IV,0,1,Private,Community,Chemotherapy alone,9.22,1
+2022,63,Male,III-IV,1,0,Private,Community,Chemoimmunotherapy,21.66,0
+2016,61,Male,III-IV,1,0,Private,Community,Chemotherapy alone,22.44,1
+2022,67,Female,I-II,1,1,Medicare,Community,Chemoimmunotherapy,38.0,0
+2020,82,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,3.45,1
+2014,90,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,33.34,1
+2016,81,Male,III-IV,0,0,Private,Community,Chemoimmunotherapy,64.13,0
+2013,90,Female,I-II,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,2.19,1
+2016,51,Female,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,34.41,0
+2019,76,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,8.3,1
+2013,69,Female,I-II,0,0,Medicare,Community,Chemotherapy alone,5.67,1
+2019,60,Male,I-II,1,1,Private,Community,Chemoimmunotherapy,39.98,1
+2020,71,Male,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,21.91,1
+2013,74,Male,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,6.17,1
+2020,71,Male,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,11.98,1
+2016,66,Male,I-II,1,0,Medicare,Academic/Research,Chemotherapy alone,16.39,0
+2016,66,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,25.49,1
+2019,63,Male,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,38.44,1
+2020,64,Female,III-IV,0,0,Medicare,Community,Chemotherapy alone,69.06,0
+2014,51,Female,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,14.51,1
+2022,73,Female,III-IV,0,1,Private,Community,Chemoimmunotherapy,34.44,0
+2020,73,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,24.38,0
+2016,88,Female,I-II,0,1,Medicare,Community,Chemoimmunotherapy,25.89,1
+2017,72,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,66.31,0
+2013,58,Female,III-IV,0,1,Medicaid/Other,Academic/Research,Chemoimmunotherapy,12.15,1
+2016,46,Female,III-IV,0,1,Medicare,Academic/Research,Chemotherapy alone,18.59,1
+2016,65,Female,I-II,0,0,Medicaid/Other,Community,Chemoimmunotherapy,73.72,0
+2015,72,Male,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,2.28,1
+2018,73,Male,I-II,0,1,Private,Community,Chemoimmunotherapy,31.56,1
+2022,73,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,50.79,1
+2021,70,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,40.87,0
+2014,72,Female,I-II,1,0,Medicaid/Other,Community,Chemoimmunotherapy,38.92,1
+2018,63,Female,III-IV,0,0,Private,Community,Chemotherapy alone,16.82,0
+2021,68,Female,III-IV,0,1,Medicare,Community,Chemoimmunotherapy,28.1,1
+2014,64,Male,I-II,0,1,Private,Academic/Research,Chemotherapy alone,5.12,1
+2013,79,Female,I-II,1,1,Private,Academic/Research,Chemotherapy alone,31.15,1
+2017,53,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,17.85,1
+2020,70,Female,I-II,0,0,Private,Community,Chemoimmunotherapy,83.62,0
+2019,83,Female,III-IV,1,0,Medicare,Community,Chemotherapy alone,11.75,1
+2013,80,Male,III-IV,1,1,Medicare,Community,Chemotherapy alone,23.62,1
+2015,57,Male,I-II,1,1,Medicare,Academic/Research,Chemoimmunotherapy,18.98,0
+2021,77,Male,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,11.16,1
+2017,84,Male,III-IV,0,1,Private,Academic/Research,Chemoimmunotherapy,3.56,1
+2015,80,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,26.26,1
+2020,74,Female,III-IV,0,0,Medicare,Academic/Research,Chemotherapy alone,54.95,1
+2017,60,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,34.68,0
+2013,87,Male,I-II,0,0,Private,Community,Chemotherapy alone,72.23,0
+2018,77,Male,III-IV,1,0,Medicare,Academic/Research,Chemotherapy alone,13.19,1
+2022,49,Female,III-IV,1,1,Medicare,Community,Chemotherapy alone,1.85,1
+2019,55,Female,I-II,0,0,Medicaid/Other,Academic/Research,Chemotherapy alone,10.92,1
+2019,74,Male,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,2.22,1
+2019,83,Male,I-II,1,1,Medicare,Community,Chemoimmunotherapy,18.33,1
+2021,75,Male,III-IV,0,1,Medicare,Community,Chemotherapy alone,16.06,1
+2018,53,Female,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,37.26,0
+2021,79,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,5.61,1
+2018,77,Male,I-II,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,25.22,0
+2015,78,Male,III-IV,1,1,Private,Community,Chemoimmunotherapy,13.33,0
+2021,66,Female,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,9.74,1
+2022,61,Male,III-IV,1,0,Medicare,Community,Chemoimmunotherapy,70.68,1
+2019,69,Female,III-IV,1,0,Medicare,Community,Chemotherapy alone,34.63,0
+2020,44,Male,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,52.53,0
+2019,64,Male,III-IV,0,0,Private,Academic/Research,Chemoimmunotherapy,63.14,0
+2020,77,Male,I-II,0,0,Medicare,Community,Chemoimmunotherapy,33.11,1
+2015,86,Male,III-IV,0,1,Medicare,Academic/Research,Chemoimmunotherapy,4.16,1
+2016,66,Female,III-IV,1,0,Medicaid/Other,Community,Chemoimmunotherapy,50.36,1
+2020,54,Female,III-IV,1,1,Medicare,Community,Chemoimmunotherapy,27.63,1
+2016,57,Male,III-IV,0,0,Medicare,Community,Chemotherapy alone,28.83,0
+2014,73,Female,III-IV,0,0,Private,Community,Chemoimmunotherapy,3.88,1
+2015,42,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,62.6,0
+2022,59,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,48.43,0
+2022,48,Male,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,14.09,0
+2016,64,Female,I-II,0,0,Private,Community,Chemotherapy alone,9.13,1
+2021,83,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,8.2,1
+2014,44,Male,III-IV,1,1,Private,Academic/Research,Chemoimmunotherapy,21.08,0
+2014,47,Male,I-II,0,1,Medicare,Academic/Research,Chemotherapy alone,16.76,0
+2020,65,Male,I-II,0,1,Private,Academic/Research,Chemoimmunotherapy,65.35,0
+2022,87,Male,III-IV,1,0,Private,Academic/Research,Chemoimmunotherapy,18.73,1
+2020,57,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,19.15,0
+2015,79,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,9.03,1
+2013,84,Female,I-II,0,0,Private,Academic/Research,Chemotherapy alone,11.5,1
+2021,69,Female,III-IV,0,0,Medicaid/Other,Academic/Research,Chemoimmunotherapy,30.06,0
+2022,73,Male,I-II,0,0,Medicare,Academic/Research,Chemoimmunotherapy,19.49,1
+2016,62,Female,III-IV,1,0,Medicare,Community,Chemotherapy alone,10.97,1
+2020,71,Female,III-IV,1,0,Medicare,Academic/Research,Chemoimmunotherapy,38.71,1
+2016,76,Male,I-II,0,0,Medicare,Community,Chemotherapy alone,38.22,1
+2015,34,Female,I-II,0,1,Medicare,Academic/Research,Chemoimmunotherapy,31.81,0
+2021,72,Female,III-IV,1,1,Private,Academic/Research,Chemoimmunotherapy,2.84,1
+2019,78,Male,I-II,1,1,Medicare,Community,Chemotherapy alone,4.29,1
+2021,65,Female,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,17.65,0
+2015,29,Male,I-II,0,0,Private,Academic/Research,Chemoimmunotherapy,55.77,1
+2014,77,Female,III-IV,0,0,Private,Community,Chemotherapy alone,32.3,1
+2017,78,Female,III-IV,0,0,Medicare,Academic/Research,Chemoimmunotherapy,14.07,1
+2022,53,Male,III-IV,0,0,Medicare,Community,Chemoimmunotherapy,6.57,1
