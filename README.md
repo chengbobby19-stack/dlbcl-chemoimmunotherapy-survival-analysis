@@ -17,6 +17,21 @@ All data and results displayed below are **synthetic demonstration outputs** cre
 - **Primary outcome:** Overall survival  
 - **Key methods demonstrated:** descriptive analysis, Kaplan–Meier analysis, Cox regression, treatment-by-year interaction, RMST interpretation, and 30-day landmark sensitivity analysis
 
+## Original Study vs. Public Portfolio Reconstruction
+
+### Original study
+
+- Used restricted NCDB patient-level data from 2013–2022.
+- Evaluated year-specific adjusted RMST differences at 36 and 60 months.
+- Used the broader covariate adjustment set described in the original analysis.
+
+### Public portfolio reconstruction
+
+- Uses synthetic data only and does not reproduce restricted NCDB patient-level data, proprietary team code, or unpublished team figures.
+- Demonstrates the unadjusted RMST concept rather than reproducing the original adjusted RMST estimator.
+- Uses a reduced covariate set for transparency and portability.
+- Demonstrates the statistical workflow and interpretation structure rather than the original study effect estimates.
+
 ## Demonstration outputs
 
 ### Table 1 — Baseline characteristics
