@@ -32,7 +32,7 @@ Year-specific multivariable Cox models estimate the adjusted association between
 
 ## 7. Figure 4 — 30-day landmark sensitivity analysis
 
-The landmark analysis tests whether very early events materially change the observed treatment association. In the portfolio, this is presented as a robustness check rather than a separate primary result.
+The 30-day landmark sensitivity analysis restricts the analysis to patients who survive and remain under observation beyond the prespecified 30-day landmark, with follow-up re-originated at the landmark. This analysis evaluates whether early mortality materially influences the estimated association between treatment and overall survival. In this portfolio, the landmark analysis is presented as a robustness check rather than as a separate primary analysis.
 
 ## 8. Interpretation principle
 
