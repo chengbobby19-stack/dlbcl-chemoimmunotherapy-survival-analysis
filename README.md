@@ -13,7 +13,7 @@ All data and results displayed below are **synthetic demonstration outputs** cre
 
 - **Original study period:** 2013–2022  
 - **Public synthetic demonstration years shown in figures:** 2013–2021  
-- **Exposure:** Chemoimmunotherapy vs chemotherapy alone  
+- **Exposure:** first-course chemotherapy plus registry-recorded immunotherapy (CIT) vs chemotherapy alone (CT)  
 - **Primary outcome:** Overall survival  
 - **Key methods demonstrated:** descriptive analysis, Kaplan–Meier analysis, Cox regression, treatment-by-year interaction, RMST interpretation, and 30-day landmark sensitivity analysis
 
