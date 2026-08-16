@@ -22,7 +22,7 @@ All data and results displayed below are **synthetic demonstration outputs** cre
 ### Original study
 
 - Used restricted NCDB patient-level data from 2013–2022.
-- Evaluated year-specific adjusted RMST differences at 36 and 60 months.
+- Evaluated year-specific adjusted 3-year RMST differences for diagnosis years with adequate follow-up.
 - Used the broader covariate adjustment set described in the original analysis.
 
 ### Public portfolio reconstruction
